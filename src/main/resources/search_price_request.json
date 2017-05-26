@@ -1,0 +1,95 @@
+{
+  "requestType": "B2CAgent",
+  "idContext": "B2C",
+  "channel": "B2Cweb",
+  "token": "abc",
+  "deviceId": "Chrome",
+  "deviceType": "Desktop",
+  "appVersion": "52.0.2743.116",
+  "affiliateId": "312165",
+  "applicationId": "410",
+  "expiryRequired": true,
+  "pEmailId": "abc@gmail.com",
+  "pageContext": "Details",
+  "ratePlanCode":"100",
+  "cdfContextId": "B2C",
+  "countryCode": "IN",
+  "cityCode": "BOM",
+  "hotelIds": ["200704092047307700"],
+  "bookingDevice": "DESKTOP",
+  "checkin": "2017-05-19",
+  "checkout": "2017-05-20",
+  "loggedIn": true,
+  "roomStayCandidates": [
+    {
+      "guestCounts": [
+        {
+          "count": "2",
+          "ageQualifyingCode": "10",
+          "ages": null
+        }
+      ]
+    }
+  ],
+   "roomCode": "4",
+  "responseFilterFlags": {
+    "soldOutInfoReq": true,
+    "staticData": true,
+    "roomLevelDetails": true,
+    "freeCancellationAvail": true,
+    "bestCoupon": true,
+    "priceInfoReq": true,
+    "applyAbsorption": null,
+    "shortlistRequired": null,
+    "topRatedCommentRequired": false
+  },
+  "numberOfCoupons": 1,
+  "currency": "USD",
+  "cancellationPolicyRulesReq": "no",
+  "guestRecommendationEnabled": {
+    "maxRecommendations": "1",
+    "text": "true"
+  },
+  "summaryOnly": false,
+  "visitorId": null,
+  "domain": "B2C",
+  "limit": 20,
+  "filterCriteria": {
+    "rangeFilter": null,
+    "directFilter": null,
+   "modifiedRangeFilters": null
+  },
+  "sortCriteria": {
+    "field": "hsq01",
+    "order": "asc",
+    "lastSortValue": null
+  },
+  "latitude": null,
+  "longitude": null,
+  "networkType": null,
+  "imageCategory": [
+    {
+      "category": "H",
+      "count": 3,
+      "height": 420,
+      "width": 320
+    }
+  ],
+  "imageType": [
+    "professional"
+  ],
+  "userId": null,
+  "promotionReferenceCodes": [
+    {
+      "codeType": "campainId",
+      "value": 312165
+    }
+  ],
+  "lastFetchedHotelId": null,
+  "numberOfSoldOuts": 1,
+  "experimentData": "\"{\"PAH\":\"1\"}\"",
+  "mobileNumber": "123",
+  "correlationKey": "FOO_CORRELATION_KEY",
+  "couponCount": 1,
+  "isWalletRequired" :true
+}

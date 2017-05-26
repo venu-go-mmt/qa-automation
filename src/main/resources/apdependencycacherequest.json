@@ -1,0 +1,30 @@
+{
+  "requestType": "MMTCache",
+  "key": {
+    "affiliateId": "1000",
+    "dmcCode": "1234",
+    "hotelCode": "ABC",
+    "cityCode": "SYD",
+    "checkinDate": "20160825",
+    "checkoutDate": "20160827",
+    "nationality": "AU",
+    "language": "EN",
+    "occupancy": {
+      "noOfRooms": 1,
+      "paxs": [
+        {
+          "adults": 1,
+          "child": 0,
+          "childAges": [
+            
+          ]
+        }
+      ]
+    },
+    "additionalFields": [
+      {
+        "isUserQueryCache": "true"
+      }
+    ]
+  }
+}

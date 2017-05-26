@@ -1,0 +1,1783 @@
+{
+  "total": 1,
+  "hotelRates": [
+    {
+      "currencyCode": "USD",
+      "id": "200704092047307700",
+      "isPAHTariffAvailable": true,
+      "isPAHAvailable": true,
+      "lowestRate": {
+        "discountedLowestRate": 151.98000000000002,
+        "extraAdult": 0,
+        "lowestRate": 151.98000000000002,
+        "tax": 12.24,
+        "paymentDetails": {
+          "paymentMode": "PAS",
+          "cardChargePolicy": null
+        },
+        "segmentId": "G",
+        "supplierCode": "MMT"
+      },
+      "mtKey": "N$$s9rHC9RN7n8chauN4eHqjCCDeTbEjRBTZeehBpxJAiWOXK0XRt8FPzkQ%2FSnwQaDNbj2J5cme5sNpfUjjs3uU%2B72Jy1%2BKjO4HGJyKPtn16CfNsZ%2BG5U7O%2FjTyJVNwO112OQCHPPpficZtQWu421RwSWEzgg24k9CxLVLizRl6ZW3FVrQFYsIR1UVnnZHNB0iirw%2FPlSM6R%2FkhVdYNgol1PXSxzOsszbxVXE32BHoNTM4yUwEwsv8T9QKXE7E61rKo4iWvUJjWuDlLWRUFrJmaNozjtaH6M6Od%2F4I4f6KqzjyeNDKNDxcta%2B95%2BMDfhn43wUqbbKl3YJzNvjW%2F7qQL%2Fmah%2F4lPiqxTmSGRphpOfP2QwEw2e6M3J8EITphO1c1fT5q8TA9bVhGq%2BkOD8fY4r5NlDsGuFZvlf0EDjphwOaRBdslz1pPH1NKt3i4eWi7njMTP6%2FdgEh8aGvad1SlvTA%3D%3D",
+      "soldOut": false,
+      "roomTypeDetails": {
+        "roomType": {
+          "4": {
+            "ratePlanList": {
+              "19407936807963***G": {
+                "inclusions": [
+                  {
+                    "startDate": 1495132200000,
+                    "endDate": 1495218600000,
+                    "value": "Internet Charges extra applicable as per hotel policies",
+                    "code": "Internet Charges extra applicable as per hotel policies"
+                  }
+                ],
+                "mealPlans": [
+                  {
+                    "startDate": 1495132200000,
+                    "endDate": 1495218600000,
+                    "code": "CP",
+                    "value": "Breakfast"
+                  }
+                ],
+                "availDetails": {
+                  "status": "B",
+                  "count": 4
+                },
+                "paymentDetails": {
+                  "paymentMode": "PAH2",
+                  "cardChargePolicy": {
+                    "policyText": "Zero advance, just Pay at Checkout.The hotelier may charge your card in case of cancellation or no show as per the cancellation policy. No payment will be charged from your card before the day of check-in.",
+                    "pah1NoPrePay": false
+                  }
+                },
+                "cancelPenaltyList": [
+                  {
+                    "cancellationType": "FREE_CANCELLATON",
+                    "cancelPenaltiesRule": [
+                      {
+                        "deadlinetObj": {
+                          "offSetDropTime": "BEFOREARRIVAL",
+                          "value": 0,
+                          "offsetTimeUnit": "DAY",
+                          "offsetUnitMultiplier": 1
+                        },
+                        "amountPercentObj": {
+                          "percent": 100,
+                          "numOfNights": null,
+                          "basisType": null,
+                          "taxInclusive": null,
+                          "feeInclusive": null,
+                          "applyAs": null,
+                          "currencyCode": "USD",
+                          "amount": null,
+                          "decimalPlaces": null
+                        },
+                        "penaltyDescription": null,
+                        "serviceFee": null,
+                        "cancellationAmount": {
+                          "value": 12523,
+                          "currencyCode": "USD",
+                          "taxes": null,
+                          "type": null
+                        }
+                      },
+                      {
+                        "deadlinetObj": {
+                          "offSetDropTime": "BEFOREARRIVAL",
+                          "value": 0,
+                          "offsetTimeUnit": "DAY",
+                          "offsetUnitMultiplier": 99999
+                        },
+                        "amountPercentObj": {
+                          "percent": 0,
+                          "numOfNights": null,
+                          "basisType": null,
+                          "taxInclusive": null,
+                          "feeInclusive": null,
+                          "applyAs": null,
+                          "currencyCode": "USD",
+                          "amount": null,
+                          "decimalPlaces": null
+                        },
+                        "penaltyDescription": null,
+                        "serviceFee": null,
+                        "cancellationAmount": {
+                          "value": 0,
+                          "currencyCode": "USD",
+                          "taxes": null,
+                          "type": null
+                        }
+                      },
+                      {
+                        "deadlinetObj": null,
+                        "amountPercentObj": null,
+                        "penaltyDescription": null,
+                        "serviceFee": 0,
+                        "cancellationAmount": null
+                      }
+                    ],
+                    "penaltyDescription": {
+                      "name": null,
+                      "description": "More than 1 day before check-in date: FREE CANCELLATION/MODIFICATION; 1 day before check-in date: no refund; In case of no show: no refund .Booking cannot be cancelled/modified on or after the check in date and time mentioned in the Hotel Confirmation Voucher."
+                    },
+                    "tillDate": "18-May-2017 02:00 PM IST",
+                    "sponsorer": null,
+                    "freeCancellationText": "Free Cancellation before 18-May-2017 02:00 PM IST"
+                  }
+                ],
+                "displayFare": {
+                  "tax": {
+                    "value": 15.22
+                  },
+                  "slashedPrice": {
+                    "value": 189.11,
+                    "maxFraction": 0,
+                    "avgeragePriceNoTax": 189.11,
+                    "averagePriceWithTax": 204.33,
+                    "sellingPriceNoTax": 189.11,
+                    "sellingPriceWithTax": 204.33
+                  },
+                  "actualPrice": {
+                    "value": 189.11,
+                    "maxFraction": 0,
+                    "avgeragePriceNoTax": 189.11,
+                    "averagePriceWithTax": 204.33,
+                    "sellingPriceNoTax": 189.11,
+                    "sellingPriceWithTax": 204.33
+                  },
+                  "bestCouponByPaymode": {
+                    "PAS": {
+                      "couponCode": "SUPERSTAR",
+                      "type": "ECOUPON",
+                      "description": "get INR 5863 off",
+                      "discountAmount": 90.76272189399494,
+                      "couponDetails": [
+                        {
+                          "moreVerificationRequired": false,
+                          "discountTypeCode": "INSTANT",
+                          "timeOfCredit": "Booking",
+                          "discountType": "Instant",
+                          "discount": 90.76272189399494,
+                          "cashbackAmount": 0,
+                          "cdfValidated": false,
+                          "ecoupon": false
+                        }
+                      ],
+                      "paymentModel": "PAS",
+                      "hybridDiscounts": {
+                        "INSTANT": 90.76272189399494
+                      },
+                      "tncUrl": "http://promos.makemytrip.com/mmdelight_29072016.html"
+                    }
+                  },
+                  "extraAdult": {
+                    "value": 0
+                  },
+                  "totalTariff": {
+                    "grandTotal": 204.33,
+                    "subTotal": 189.11,
+                    "discount": 0,
+                    "taxes": 15.22,
+                    "extraPax": 0
+                  },
+                  "taxDetails": {
+                    "actualTax": 30.43,
+                    "markup": 13.24,
+                    "serviceTaxOnMarkup": 1.99
+                  },
+                  "conversionFactor": 64.597005
+                },
+                "supplierDetails": {
+                  "supplierCode": "MMT",
+                  "costPrice": 159.36,
+                  "hotelierCurrencyCode": "INR"
+                },
+                "roomTariff": [
+                  {
+                    "perNightPrice": 189.11,
+                    "extraPrice": 0,
+                    "taxes": 15.22,
+                    "totalPricePerRoom": 189.11,
+                    "numberOfAdults": 2,
+                    "numberOfChildren": 0,
+                    "roomDiscountPerNight": 0,
+                    "roomDiscountTax": 0,
+                    "extraChildFarePerNight": 0,
+                    "startDate": "2017-05-19",
+                    "endDate": "2017-05-20",
+                    "roomNumber": "1"
+                  }
+                ],
+                "ratePlanType": "ONLINE",
+                "mtKey": "N$$s9rHC9RN7n%2FjdBoN46mPI63y34JOvz%2BICuX4JHlsLeMIAwaNdzGSCFF3CjZo2gKyjJJdYcziUY3xlOoRV8%2BCdirw5yDPYrY8CJO2qy8e2CDWPrvnBZvVHp%2BEeaA0cm1criA11jl4reY%2B90JKrQL1pUSMCnzUMaHzgUq5huI6JTVp0A3m3wJm9zyWWASm5W5IKfM3hjqHuk02tlQg%2FRIsHdnXiZZhgJIzKcUA6wyVMsouLvwJg7pSo5IImQqPkfmy3H6d4YdG6yqFhLKuvm%2FM%2Fwe1psGEeOx0jjVopmfXeNOkFqG5XsYWXEv9OOldxWJqf4wa7%2FkNVVN%2FTeAeMplTjgGuYe7lok6nTqYYEXhAYMhef8jPik27Aem4ZxdG1isWOSgmiTfdOq1Hii6qkKIBVEFcEToNMhmMA%2BTz1lbOvEuCpsWIHmTcngKN6deIBRltEcJzlAow2Cs8HxC11XAV9g%3D%3D",
+                "promotionsList": [],
+                "apAppliedPromotions": [
+                  {
+                    "promoLevel": "apLevel",
+                    "promoType": "Mark-Up",
+                    "amount": 855.12
+                  },
+                  {
+                    "promoLevel": "apLevel",
+                    "promoType": "Discount",
+                    "amount": 0
+                  },
+                  {
+                    "promoLevel": "apLevel",
+                    "promoType": "ServiceTaxOnMarkup",
+                    "amount": 128.27
+                  }
+                ],
+                "checkCancellationPolicy": false,
+                "checkInclusions": false,
+                "segmentId": "G",
+                "inclusionAndPolicyAvailVar": true,
+                "suppressPas": false
+              }
+            },
+            "roomTypeName": "Executive",
+            "roomTypeCode": "4",
+            "bedSize": null,
+            "roomSize": null,
+            "viewType": null
+          },
+          "33837": {
+            "ratePlanList": {
+              "73826256780086***G": {
+                "inclusions": [
+                  {
+                    "startDate": 1495132200000,
+                    "endDate": 1495218600000,
+                    "value": "...",
+                    "code": "..."
+                  },
+                  {
+                    "startDate": 1495132200000,
+                    "endDate": 1495218600000,
+                    "value": "Internet Charges extra applicable as per hotel policies",
+                    "code": "Internet Charges extra applicable as per hotel policies"
+                  }
+                ],
+                "mealPlans": [
+                  {
+                    "startDate": 1495132200000,
+                    "endDate": 1495218600000,
+                    "code": "CP",
+                    "value": "Breakfast"
+                  }
+                ],
+                "availDetails": {
+                  "status": "B",
+                  "count": 7
+                },
+                "paymentDetails": {
+                  "paymentMode": "PAS",
+                  "cardChargePolicy": null
+                },
+                "cancelPenaltyList": [
+                  {
+                    "cancellationType": "FREE_CANCELLATON",
+                    "cancelPenaltiesRule": [
+                      {
+                        "deadlinetObj": {
+                          "offSetDropTime": "BEFOREARRIVAL",
+                          "value": 0,
+                          "offsetTimeUnit": "DAY",
+                          "offsetUnitMultiplier": 1
+                        },
+                        "amountPercentObj": {
+                          "percent": 100,
+                          "numOfNights": null,
+                          "basisType": null,
+                          "taxInclusive": null,
+                          "feeInclusive": null,
+                          "applyAs": null,
+                          "currencyCode": "USD",
+                          "amount": null,
+                          "decimalPlaces": null
+                        },
+                        "penaltyDescription": null,
+                        "serviceFee": null,
+                        "cancellationAmount": {
+                          "value": 10065,
+                          "currencyCode": "USD",
+                          "taxes": null,
+                          "type": null
+                        }
+                      },
+                      {
+                        "deadlinetObj": {
+                          "offSetDropTime": "BEFOREARRIVAL",
+                          "value": 0,
+                          "offsetTimeUnit": "DAY",
+                          "offsetUnitMultiplier": 99999
+                        },
+                        "amountPercentObj": {
+                          "percent": 0,
+                          "numOfNights": null,
+                          "basisType": null,
+                          "taxInclusive": null,
+                          "feeInclusive": null,
+                          "applyAs": null,
+                          "currencyCode": "USD",
+                          "amount": null,
+                          "decimalPlaces": null
+                        },
+                        "penaltyDescription": null,
+                        "serviceFee": null,
+                        "cancellationAmount": {
+                          "value": 0,
+                          "currencyCode": "USD",
+                          "taxes": null,
+                          "type": null
+                        }
+                      },
+                      {
+                        "deadlinetObj": null,
+                        "amountPercentObj": null,
+                        "penaltyDescription": null,
+                        "serviceFee": 0,
+                        "cancellationAmount": null
+                      }
+                    ],
+                    "penaltyDescription": {
+                      "name": null,
+                      "description": "More than 1 day before check-in date: FREE CANCELLATION/MODIFICATION; 1 day before check-in date: no refund; In case of no show: no refund .Booking cannot be cancelled/modified on or after the check in date and time mentioned in the Hotel Confirmation Voucher."
+                    },
+                    "tillDate": "18-May-2017 02:00 PM IST",
+                    "sponsorer": null,
+                    "freeCancellationText": "Free Cancellation before 18-May-2017 02:00 PM IST"
+                  }
+                ],
+                "displayFare": {
+                  "tax": {
+                    "value": 12.24
+                  },
+                  "slashedPrice": {
+                    "value": 151.99,
+                    "maxFraction": 0,
+                    "avgeragePriceNoTax": 151.99,
+                    "averagePriceWithTax": 164.22,
+                    "sellingPriceNoTax": 151.99,
+                    "sellingPriceWithTax": 164.22
+                  },
+                  "actualPrice": {
+                    "value": 151.99,
+                    "maxFraction": 0,
+                    "avgeragePriceNoTax": 151.99,
+                    "averagePriceWithTax": 164.22,
+                    "sellingPriceNoTax": 151.99,
+                    "sellingPriceWithTax": 164.22
+                  },
+                  "bestCouponByPaymode": {
+                    "PAS": {
+                      "couponCode": "SUPERSTAR",
+                      "type": "ECOUPON",
+                      "description": "get INR 4712 off",
+                      "discountAmount": 72.9445583429139,
+                      "couponDetails": [
+                        {
+                          "moreVerificationRequired": false,
+                          "discountTypeCode": "INSTANT",
+                          "timeOfCredit": "Booking",
+                          "discountType": "Instant",
+                          "discount": 72.9445583429139,
+                          "cashbackAmount": 0,
+                          "cdfValidated": false,
+                          "ecoupon": false
+                        }
+                      ],
+                      "paymentModel": "PAS",
+                      "hybridDiscounts": {
+                        "INSTANT": 72.9445583429139
+                      },
+                      "tncUrl": "http://promos.makemytrip.com/mmdelight_29072016.html"
+                    }
+                  },
+                  "extraAdult": {
+                    "value": 0
+                  },
+                  "totalTariff": {
+                    "grandTotal": 164.22,
+                    "subTotal": 151.99,
+                    "discount": 0,
+                    "taxes": 12.24,
+                    "extraPax": 0
+                  },
+                  "taxDetails": {
+                    "actualTax": 24.27,
+                    "markup": 10.64,
+                    "serviceTaxOnMarkup": 1.6
+                  },
+                  "conversionFactor": 64.597005
+                },
+                "supplierDetails": {
+                  "supplierCode": "MMT",
+                  "costPrice": 128.03,
+                  "hotelierCurrencyCode": "INR"
+                },
+                "roomTariff": [
+                  {
+                    "perNightPrice": 151.99,
+                    "extraPrice": 0,
+                    "taxes": 12.24,
+                    "totalPricePerRoom": 151.99,
+                    "numberOfAdults": 2,
+                    "numberOfChildren": 0,
+                    "roomDiscountPerNight": 0,
+                    "roomDiscountTax": 0,
+                    "extraChildFarePerNight": 0,
+                    "startDate": "2017-05-19",
+                    "endDate": "2017-05-20",
+                    "roomNumber": "1"
+                  }
+                ],
+                "ratePlanType": "ONLINE",
+                "mtKey": "N$$s9rHC9RN7n8chauN4eHqjCCDeTbEjRBTZeehBpxJAiWOXK0XRt8FPzkQ%2FSnwQaDNbj2J5cme5sNpfUjjs3uU%2B72Jy1%2BKjO4HGJyKPtn16CfNsZ%2BG5U7O%2FjTyJVNwO112OQCHPPpficZtQWu421RwSWEzgg24k9CxLVLizRl6ZW3FVrQFYsIR1UVnnZHNB0iirw%2FPlSM6R%2FkhVdYNgol1PXSxzOsszbxVXE32BHoNTM4yUwEwsv8T9QKXE7E61rKo4iWvUJjWuDlLWRUFrJmaNozjtaH6M6Od%2F4I4f6KqzjyeNDKNDxcta%2B95%2BMDfhn43wUqbbKl3YJzNvjW%2F7qQL%2Fmah%2F4lPiqxTmSGRphpOfP2QwEw2e6M3J8EITphO1c1fT5q8TA9bVhGq%2BkOD8fY4r5NlDsGuFZvlf0EDjphwOaRBdslz1pPH1NKt3i4eWi7njMTP6%2FdgEh8aGvad1SlvTA%3D%3D",
+                "promotionsList": [],
+                "apAppliedPromotions": [
+                  {
+                    "promoLevel": "apLevel",
+                    "promoType": "Mark-Up",
+                    "amount": 687.26
+                  },
+                  {
+                    "promoLevel": "apLevel",
+                    "promoType": "Discount",
+                    "amount": 0
+                  },
+                  {
+                    "promoLevel": "apLevel",
+                    "promoType": "ServiceTaxOnMarkup",
+                    "amount": 103.09
+                  }
+                ],
+                "checkCancellationPolicy": false,
+                "checkInclusions": false,
+                "segmentId": "G",
+                "inclusionAndPolicyAvailVar": true,
+                "suppressPas": false
+              },
+              "92819720942087***G": {
+                "inclusions": [
+                  {
+                    "startDate": 1495132200000,
+                    "endDate": 1495218600000,
+                    "value": "...",
+                    "code": "..."
+                  },
+                  {
+                    "startDate": 1495132200000,
+                    "endDate": 1495218600000,
+                    "value": "Internet Charges extra applicable as per hotel policies",
+                    "code": "Internet Charges extra applicable as per hotel policies"
+                  }
+                ],
+                "mealPlans": [
+                  {
+                    "startDate": 1495132200000,
+                    "endDate": 1495218600000,
+                    "code": "MAP",
+                    "value": "2 meals -  Breakfast & Lunch or Dinner"
+                  }
+                ],
+                "availDetails": {
+                  "status": "B",
+                  "count": 7
+                },
+                "paymentDetails": {
+                  "paymentMode": "PAS",
+                  "cardChargePolicy": null
+                },
+                "cancelPenaltyList": [
+                  {
+                    "cancellationType": "FREE_CANCELLATON",
+                    "cancelPenaltiesRule": [
+                      {
+                        "deadlinetObj": {
+                          "offSetDropTime": "BEFOREARRIVAL",
+                          "value": 0,
+                          "offsetTimeUnit": "DAY",
+                          "offsetUnitMultiplier": 1
+                        },
+                        "amountPercentObj": {
+                          "percent": 100,
+                          "numOfNights": null,
+                          "basisType": null,
+                          "taxInclusive": null,
+                          "feeInclusive": null,
+                          "applyAs": null,
+                          "currencyCode": "USD",
+                          "amount": null,
+                          "decimalPlaces": null
+                        },
+                        "penaltyDescription": null,
+                        "serviceFee": null,
+                        "cancellationAmount": {
+                          "value": 18300,
+                          "currencyCode": "USD",
+                          "taxes": null,
+                          "type": null
+                        }
+                      },
+                      {
+                        "deadlinetObj": {
+                          "offSetDropTime": "BEFOREARRIVAL",
+                          "value": 0,
+                          "offsetTimeUnit": "DAY",
+                          "offsetUnitMultiplier": 99999
+                        },
+                        "amountPercentObj": {
+                          "percent": 0,
+                          "numOfNights": null,
+                          "basisType": null,
+                          "taxInclusive": null,
+                          "feeInclusive": null,
+                          "applyAs": null,
+                          "currencyCode": "USD",
+                          "amount": null,
+                          "decimalPlaces": null
+                        },
+                        "penaltyDescription": null,
+                        "serviceFee": null,
+                        "cancellationAmount": {
+                          "value": 0,
+                          "currencyCode": "USD",
+                          "taxes": null,
+                          "type": null
+                        }
+                      },
+                      {
+                        "deadlinetObj": null,
+                        "amountPercentObj": null,
+                        "penaltyDescription": null,
+                        "serviceFee": 0,
+                        "cancellationAmount": null
+                      }
+                    ],
+                    "penaltyDescription": {
+                      "name": null,
+                      "description": "More than 1 day before check-in date: FREE CANCELLATION/MODIFICATION; 1 day before check-in date: no refund; In case of no show: no refund .Booking cannot be cancelled/modified on or after the check in date and time mentioned in the Hotel Confirmation Voucher."
+                    },
+                    "tillDate": "18-May-2017 02:00 PM IST",
+                    "sponsorer": null,
+                    "freeCancellationText": "Free Cancellation before 18-May-2017 02:00 PM IST"
+                  }
+                ],
+                "displayFare": {
+                  "tax": {
+                    "value": 22.24
+                  },
+                  "slashedPrice": {
+                    "value": 276.33,
+                    "maxFraction": 0,
+                    "avgeragePriceNoTax": 276.33,
+                    "averagePriceWithTax": 298.57,
+                    "sellingPriceNoTax": 276.33,
+                    "sellingPriceWithTax": 298.57
+                  },
+                  "actualPrice": {
+                    "value": 276.33,
+                    "maxFraction": 0,
+                    "avgeragePriceNoTax": 276.33,
+                    "averagePriceWithTax": 298.57,
+                    "sellingPriceNoTax": 276.33,
+                    "sellingPriceWithTax": 298.57
+                  },
+                  "bestCouponByPaymode": {
+                    "PAS": {
+                      "couponCode": "SUPERSTAR",
+                      "type": "ECOUPON",
+                      "description": "get INR 6000 off",
+                      "discountAmount": 92.88356325498373,
+                      "couponDetails": [
+                        {
+                          "moreVerificationRequired": false,
+                          "discountTypeCode": "INSTANT",
+                          "timeOfCredit": "Booking",
+                          "discountType": "Instant",
+                          "discount": 92.88356325498373,
+                          "cashbackAmount": 0,
+                          "cdfValidated": false,
+                          "ecoupon": false
+                        }
+                      ],
+                      "paymentModel": "PAS",
+                      "hybridDiscounts": {
+                        "INSTANT": 92.88356325498373
+                      },
+                      "tncUrl": "http://promos.makemytrip.com/mmdelight_29072016.html"
+                    }
+                  },
+                  "extraAdult": {
+                    "value": 0
+                  },
+                  "totalTariff": {
+                    "grandTotal": 298.57,
+                    "subTotal": 276.33,
+                    "discount": 0,
+                    "taxes": 22.24,
+                    "extraPax": 0
+                  },
+                  "taxDetails": {
+                    "actualTax": 44.12,
+                    "markup": 19.34,
+                    "serviceTaxOnMarkup": 2.9
+                  },
+                  "conversionFactor": 64.597005
+                },
+                "supplierDetails": {
+                  "supplierCode": "MMT",
+                  "costPrice": 232.79,
+                  "hotelierCurrencyCode": "INR"
+                },
+                "roomTariff": [
+                  {
+                    "perNightPrice": 276.33,
+                    "extraPrice": 0,
+                    "taxes": 22.24,
+                    "totalPricePerRoom": 276.33,
+                    "numberOfAdults": 2,
+                    "numberOfChildren": 0,
+                    "roomDiscountPerNight": 0,
+                    "roomDiscountTax": 0,
+                    "extraChildFarePerNight": 0,
+                    "startDate": "2017-05-19",
+                    "endDate": "2017-05-20",
+                    "roomNumber": "1"
+                  }
+                ],
+                "ratePlanType": "ONLINE",
+                "mtKey": "N$$s9rHC9RN7n%2F%2Bm8CZ9U0bpD%2Bw0ah4rQ6CK70yeKbYl7SmP4ZGsVjxXINkAmSLpz9h1879jmT3pU1bxtxZ85UCj2HPof5QulaXDtWzZWtb5uA8GCVOJkXu8eJ4PWYiw2CnxxdYRsz8Pc1lZerp2smmUjyl%2FjDqQBKE%2BJ7YwQli4EKXU63zRWe87bmTQ%2FoV5G6ioPJG1OIiBvuZ0Yf1VGLbjbKxIzQ8PcJP3VbjfGdAHX%2BZeFAJfk5ItZ8rnrowd8ViP0q2bzwyI9vE8W%2BJ1H%2FgQiP0BRT9t3ycssmJBWOPRX8xVf9xcob7wHJzMO0nGCDpKmfRCiLLAOPT0BmQd83x2xbd4GU2gAhK00IyEnOyKWRnVfSpdTCp7DE5%2FD2IEVZMsODfBRAPr9lTdqO6Cngz0LoNzRLQBgwrDfOHKChSUuDylt49XHUY3yeCeBVG6ust",
+                "promotionsList": [],
+                "apAppliedPromotions": [
+                  {
+                    "promoLevel": "apLevel",
+                    "promoType": "Mark-Up",
+                    "amount": 1249.5
+                  },
+                  {
+                    "promoLevel": "apLevel",
+                    "promoType": "Discount",
+                    "amount": 0
+                  },
+                  {
+                    "promoLevel": "apLevel",
+                    "promoType": "ServiceTaxOnMarkup",
+                    "amount": 187.43
+                  }
+                ],
+                "checkCancellationPolicy": false,
+                "checkInclusions": false,
+                "segmentId": "G",
+                "inclusionAndPolicyAvailVar": true,
+                "suppressPas": false
+              }
+            },
+            "roomTypeName": "Superior Room City View",
+            "roomTypeCode": "33837",
+            "bedSize": null,
+            "roomSize": null,
+            "viewType": null
+          },
+          "233248": {
+            "ratePlanList": {
+              "79592536971798***G": {
+                "inclusions": [
+                  {
+                    "startDate": 1495132200000,
+                    "endDate": 1495218600000,
+                    "value": "Internet Charges extra applicable as per hotel policies",
+                    "code": "Internet Charges extra applicable as per hotel policies"
+                  }
+                ],
+                "mealPlans": [
+                  {
+                    "startDate": 1495132200000,
+                    "endDate": 1495218600000,
+                    "code": "CP",
+                    "value": "Breakfast"
+                  }
+                ],
+                "availDetails": {
+                  "status": "B",
+                  "count": 2
+                },
+                "paymentDetails": {
+                  "paymentMode": "PAS",
+                  "cardChargePolicy": null
+                },
+                "cancelPenaltyList": [
+                  {
+                    "cancellationType": "FREE_CANCELLATON",
+                    "cancelPenaltiesRule": [
+                      {
+                        "deadlinetObj": {
+                          "offSetDropTime": "BEFOREARRIVAL",
+                          "value": 0,
+                          "offsetTimeUnit": "DAY",
+                          "offsetUnitMultiplier": 1
+                        },
+                        "amountPercentObj": {
+                          "percent": 100,
+                          "numOfNights": null,
+                          "basisType": null,
+                          "taxInclusive": null,
+                          "feeInclusive": null,
+                          "applyAs": null,
+                          "currencyCode": "USD",
+                          "amount": null,
+                          "decimalPlaces": null
+                        },
+                        "penaltyDescription": null,
+                        "serviceFee": null,
+                        "cancellationAmount": {
+                          "value": 25963,
+                          "currencyCode": "USD",
+                          "taxes": null,
+                          "type": null
+                        }
+                      },
+                      {
+                        "deadlinetObj": {
+                          "offSetDropTime": "BEFOREARRIVAL",
+                          "value": 0,
+                          "offsetTimeUnit": "DAY",
+                          "offsetUnitMultiplier": 99999
+                        },
+                        "amountPercentObj": {
+                          "percent": 0,
+                          "numOfNights": null,
+                          "basisType": null,
+                          "taxInclusive": null,
+                          "feeInclusive": null,
+                          "applyAs": null,
+                          "currencyCode": "USD",
+                          "amount": null,
+                          "decimalPlaces": null
+                        },
+                        "penaltyDescription": null,
+                        "serviceFee": null,
+                        "cancellationAmount": {
+                          "value": 0,
+                          "currencyCode": "USD",
+                          "taxes": null,
+                          "type": null
+                        }
+                      },
+                      {
+                        "deadlinetObj": null,
+                        "amountPercentObj": null,
+                        "penaltyDescription": null,
+                        "serviceFee": 0,
+                        "cancellationAmount": null
+                      }
+                    ],
+                    "penaltyDescription": {
+                      "name": null,
+                      "description": "More than 1 day before check-in date: FREE CANCELLATION/MODIFICATION; 1 day before check-in date: no refund; In case of no show: no refund .Booking cannot be cancelled/modified on or after the check in date and time mentioned in the Hotel Confirmation Voucher."
+                    },
+                    "tillDate": "18-May-2017 02:00 PM IST",
+                    "sponsorer": null,
+                    "freeCancellationText": "Free Cancellation before 18-May-2017 02:00 PM IST"
+                  }
+                ],
+                "displayFare": {
+                  "tax": {
+                    "value": 31.56
+                  },
+                  "slashedPrice": {
+                    "value": 392.06,
+                    "maxFraction": 0,
+                    "avgeragePriceNoTax": 392.06,
+                    "averagePriceWithTax": 423.62,
+                    "sellingPriceNoTax": 392.06,
+                    "sellingPriceWithTax": 423.62
+                  },
+                  "actualPrice": {
+                    "value": 392.06,
+                    "maxFraction": 0,
+                    "avgeragePriceNoTax": 392.06,
+                    "averagePriceWithTax": 423.62,
+                    "sellingPriceNoTax": 392.06,
+                    "sellingPriceWithTax": 423.62
+                  },
+                  "bestCouponByPaymode": {
+                    "PAS": {
+                      "couponCode": "MMTLUXURY",
+                      "type": "ECOUPON",
+                      "description": "get INR 7597 off",
+                      "discountAmount": 117.60607167468524,
+                      "couponDetails": [
+                        {
+                          "moreVerificationRequired": false,
+                          "discountTypeCode": "INSTANT",
+                          "timeOfCredit": "Booking",
+                          "discountType": "Instant",
+                          "discount": 117.60607167468524,
+                          "cashbackAmount": 0,
+                          "cdfValidated": false,
+                          "ecoupon": false
+                        }
+                      ],
+                      "paymentModel": "PAS",
+                      "hybridDiscounts": {
+                        "INSTANT": 117.60607167468524
+                      },
+                      "tncUrl": "http://promos.makemytrip.com/mmtluxury_29072016.html"
+                    }
+                  },
+                  "extraAdult": {
+                    "value": 0
+                  },
+                  "totalTariff": {
+                    "grandTotal": 423.62,
+                    "subTotal": 392.06,
+                    "discount": 0,
+                    "taxes": 31.56,
+                    "extraPax": 0
+                  },
+                  "taxDetails": {
+                    "actualTax": 63.1,
+                    "markup": 27.44,
+                    "serviceTaxOnMarkup": 4.12
+                  },
+                  "conversionFactor": 64.597005
+                },
+                "supplierDetails": {
+                  "supplierCode": "MMT",
+                  "costPrice": 330.38,
+                  "hotelierCurrencyCode": "INR"
+                },
+                "roomTariff": [
+                  {
+                    "perNightPrice": 392.06,
+                    "extraPrice": 0,
+                    "taxes": 31.56,
+                    "totalPricePerRoom": 392.06,
+                    "numberOfAdults": 2,
+                    "numberOfChildren": 0,
+                    "roomDiscountPerNight": 0,
+                    "roomDiscountTax": 0,
+                    "extraChildFarePerNight": 0,
+                    "startDate": "2017-05-19",
+                    "endDate": "2017-05-20",
+                    "roomNumber": "1"
+                  }
+                ],
+                "ratePlanType": "ONLINE",
+                "mtKey": "N$$s9rHC9RN7n%2BFW3nOcweaV5YhFrhuXY0f%2FJpoZ5EWhoU%2BJynshF3wMg9d28IWHupLlpiyYGo8vb%2BglG9imFQujZehSxkRyA%2Fj64m0FybtFBjWsn3JTsa7PYqE2NdGOpfIqT4plaYgOlZ1ixnvr8Ix4%2Bbxp2tie5HGkLG6RGViMtM5O6%2FdsWJYN30eF5is6TuPEpc6%2BdiTSpTpyHJHLHFWzQ4Ca%2BgOucZPomGqZZZCARkSo0v6HluJAjZgvgPv6HBhM6Y9o6Qt%2B3NdnMn1rSITo5KuIZldC6w5YjZRF0W0zRqezw1arwVcQVTYesgCikFpkxwgouRZBsyqvOdNooXy439ppQWxVdBdEV8GYsE%2FI9Ch4yaxk8Og%2F8u6d6Fmb0lxHxEHgV53TQdxMU4cxaA6dY1tR4x4g9QPBby%2FCOA%2FosnZDuBGiNd90V1JDc7548DMXgO7qO92OevjLjhaYWh4RP0vRLBYFkcl",
+                "promotionsList": [],
+                "apAppliedPromotions": [
+                  {
+                    "promoLevel": "apLevel",
+                    "promoType": "Mark-Up",
+                    "amount": 1772.82
+                  },
+                  {
+                    "promoLevel": "apLevel",
+                    "promoType": "Discount",
+                    "amount": 0
+                  },
+                  {
+                    "promoLevel": "apLevel",
+                    "promoType": "ServiceTaxOnMarkup",
+                    "amount": 265.92
+                  }
+                ],
+                "checkCancellationPolicy": false,
+                "checkInclusions": false,
+                "segmentId": "G",
+                "inclusionAndPolicyAvailVar": true,
+                "suppressPas": false
+              }
+            },
+            "roomTypeName": "Luxury Sea View Suite",
+            "roomTypeCode": "233248",
+            "bedSize": null,
+            "roomSize": null,
+            "viewType": null
+          },
+          "233250": {
+            "ratePlanList": {
+              "73986392615453***G": {
+                "inclusions": [
+                  {
+                    "startDate": 1495132200000,
+                    "endDate": 1495218600000,
+                    "value": "Complimentary Service of Unlimited Alcoholic/Non Alcoholic Drinks from 7 PM to 9 PM at Club Lounge",
+                    "code": "Complimentary Service of Unlimited Alcoholic/Non Alcoholic Drinks from 7 PM to 9 PM at Club Lounge"
+                  }
+                ],
+                "mealPlans": [
+                  {
+                    "startDate": 1495132200000,
+                    "endDate": 1495218600000,
+                    "code": "CP",
+                    "value": "Breakfast"
+                  }
+                ],
+                "availDetails": {
+                  "status": "B",
+                  "count": 5
+                },
+                "paymentDetails": {
+                  "paymentMode": "PAS",
+                  "cardChargePolicy": null
+                },
+                "cancelPenaltyList": [
+                  {
+                    "cancellationType": "FREE_CANCELLATON",
+                    "cancelPenaltiesRule": [
+                      {
+                        "deadlinetObj": {
+                          "offSetDropTime": "BEFOREARRIVAL",
+                          "value": 0,
+                          "offsetTimeUnit": "DAY",
+                          "offsetUnitMultiplier": 1
+                        },
+                        "amountPercentObj": {
+                          "percent": null,
+                          "numOfNights": 1,
+                          "basisType": "NIGHTS",
+                          "taxInclusive": null,
+                          "feeInclusive": null,
+                          "applyAs": null,
+                          "currencyCode": "USD",
+                          "amount": null,
+                          "decimalPlaces": null
+                        },
+                        "penaltyDescription": null,
+                        "serviceFee": null,
+                        "cancellationAmount": {
+                          "value": 12523,
+                          "currencyCode": "USD",
+                          "taxes": null,
+                          "type": null
+                        }
+                      },
+                      {
+                        "deadlinetObj": {
+                          "offSetDropTime": "BEFOREARRIVAL",
+                          "value": 0,
+                          "offsetTimeUnit": "DAY",
+                          "offsetUnitMultiplier": 99999
+                        },
+                        "amountPercentObj": {
+                          "percent": 0,
+                          "numOfNights": null,
+                          "basisType": null,
+                          "taxInclusive": null,
+                          "feeInclusive": null,
+                          "applyAs": null,
+                          "currencyCode": "USD",
+                          "amount": null,
+                          "decimalPlaces": null
+                        },
+                        "penaltyDescription": null,
+                        "serviceFee": null,
+                        "cancellationAmount": {
+                          "value": 0,
+                          "currencyCode": "USD",
+                          "taxes": null,
+                          "type": null
+                        }
+                      },
+                      {
+                        "deadlinetObj": null,
+                        "amountPercentObj": null,
+                        "penaltyDescription": null,
+                        "serviceFee": 0,
+                        "cancellationAmount": null
+                      }
+                    ],
+                    "penaltyDescription": {
+                      "name": null,
+                      "description": "More than 1 day before check-in date: FREE CANCELLATION/MODIFICATION; 1 day before check-in date: 1 night cost will be charged as cancellation/modification fee; In case of no show: no refund; Booking cannot be cancelled/modified on or after the check in date and time mentioned in the Hotel Confirmation Voucher ."
+                    },
+                    "tillDate": "18-May-2017 02:00 PM IST",
+                    "sponsorer": null,
+                    "freeCancellationText": "Free Cancellation before 18-May-2017 02:00 PM IST"
+                  }
+                ],
+                "displayFare": {
+                  "tax": {
+                    "value": 15.22
+                  },
+                  "slashedPrice": {
+                    "value": 189.11,
+                    "maxFraction": 0,
+                    "avgeragePriceNoTax": 189.11,
+                    "averagePriceWithTax": 204.33,
+                    "sellingPriceNoTax": 189.11,
+                    "sellingPriceWithTax": 204.33
+                  },
+                  "actualPrice": {
+                    "value": 189.11,
+                    "maxFraction": 0,
+                    "avgeragePriceNoTax": 189.11,
+                    "averagePriceWithTax": 204.33,
+                    "sellingPriceNoTax": 189.11,
+                    "sellingPriceWithTax": 204.33
+                  },
+                  "bestCouponByPaymode": {
+                    "PAS": {
+                      "couponCode": "SUPERSTAR",
+                      "type": "ECOUPON",
+                      "description": "get INR 5863 off",
+                      "discountAmount": 90.76272189399494,
+                      "couponDetails": [
+                        {
+                          "moreVerificationRequired": false,
+                          "discountTypeCode": "INSTANT",
+                          "timeOfCredit": "Booking",
+                          "discountType": "Instant",
+                          "discount": 90.76272189399494,
+                          "cashbackAmount": 0,
+                          "cdfValidated": false,
+                          "ecoupon": false
+                        }
+                      ],
+                      "paymentModel": "PAS",
+                      "hybridDiscounts": {
+                        "INSTANT": 90.76272189399494
+                      },
+                      "tncUrl": "http://promos.makemytrip.com/mmdelight_29072016.html"
+                    }
+                  },
+                  "extraAdult": {
+                    "value": 0
+                  },
+                  "totalTariff": {
+                    "grandTotal": 204.33,
+                    "subTotal": 189.11,
+                    "discount": 0,
+                    "taxes": 15.22,
+                    "extraPax": 0
+                  },
+                  "taxDetails": {
+                    "actualTax": 30.43,
+                    "markup": 13.24,
+                    "serviceTaxOnMarkup": 1.99
+                  },
+                  "conversionFactor": 64.597005
+                },
+                "supplierDetails": {
+                  "supplierCode": "MMT",
+                  "costPrice": 159.36,
+                  "hotelierCurrencyCode": "INR"
+                },
+                "roomTariff": [
+                  {
+                    "perNightPrice": 189.11,
+                    "extraPrice": 0,
+                    "taxes": 15.22,
+                    "totalPricePerRoom": 189.11,
+                    "numberOfAdults": 2,
+                    "numberOfChildren": 0,
+                    "roomDiscountPerNight": 0,
+                    "roomDiscountTax": 0,
+                    "extraChildFarePerNight": 0,
+                    "startDate": "2017-05-19",
+                    "endDate": "2017-05-20",
+                    "roomNumber": "1"
+                  }
+                ],
+                "ratePlanType": "ONLINE",
+                "mtKey": "N$$s9rHC9RN7n%2B6NtQprZIY%2BKScGI01N6h3N2Px8n2XJDVopU%2FoqV4R8L9LjSvNXROWCS6FvJqQiz2dC2Z1EN%2FhXd1vsaSL0OKuIrrw%2BTz1lRycsiKmSYnuPmpz%2BIWxP3puTEZf302atF19I10C96tpwKO4G6yzdVMrl48C0K57aZLxeFmX0%2F6RCe7BbbzfUYjq2ntlgxOdieewet185d%2FMNNhYhP5ydDA3Il%2Bb9UFML8%2FuCEeNGIpD4P93iU1Lzcf8ETxrcvJTIQ2dXvTAHpIWuYJplwRCOfVAajoewP2vcAZaMJcCzCwNZYimICV6txfS8s9axU2jkbHrSkdoc3FyxfeUtzmRC2Kt3ByckYQ4%2BRFSmxF%2F%2BYNVyiwnFlz2HrApERmo3BEEuv7gwTb2D9uOIuT98Zapah5CrvzMQFT2BEdwNOig3nYIR234ARIvoS8gV0D0ZbSlWabkLB3GWzS7ow%3D%3D",
+                "promotionsList": [],
+                "apAppliedPromotions": [
+                  {
+                    "promoLevel": "apLevel",
+                    "promoType": "Mark-Up",
+                    "amount": 855.12
+                  },
+                  {
+                    "promoLevel": "apLevel",
+                    "promoType": "Discount",
+                    "amount": 0
+                  },
+                  {
+                    "promoLevel": "apLevel",
+                    "promoType": "ServiceTaxOnMarkup",
+                    "amount": 128.27
+                  }
+                ],
+                "checkCancellationPolicy": false,
+                "checkInclusions": false,
+                "segmentId": "G",
+                "inclusionAndPolicyAvailVar": true,
+                "suppressPas": false
+              }
+            },
+            "roomTypeName": "Club Superior City View",
+            "roomTypeCode": "233250",
+            "bedSize": null,
+            "roomSize": null,
+            "viewType": null
+          },
+          "233252": {
+            "ratePlanList": {
+              "36604920943988***G": {
+                "inclusions": [
+                  {
+                    "startDate": 1495132200000,
+                    "endDate": 1495218600000,
+                    "value": "Internet Charges extra applicable as per hotel policies",
+                    "code": "Internet Charges extra applicable as per hotel policies"
+                  }
+                ],
+                "mealPlans": [
+                  {
+                    "startDate": 1495132200000,
+                    "endDate": 1495218600000,
+                    "code": "CP",
+                    "value": "Breakfast"
+                  }
+                ],
+                "availDetails": {
+                  "status": "B",
+                  "count": 4
+                },
+                "paymentDetails": {
+                  "paymentMode": "PAS",
+                  "cardChargePolicy": null
+                },
+                "cancelPenaltyList": [
+                  {
+                    "cancellationType": "FREE_CANCELLATON",
+                    "cancelPenaltiesRule": [
+                      {
+                        "deadlinetObj": {
+                          "offSetDropTime": "BEFOREARRIVAL",
+                          "value": 0,
+                          "offsetTimeUnit": "DAY",
+                          "offsetUnitMultiplier": 1
+                        },
+                        "amountPercentObj": {
+                          "percent": null,
+                          "numOfNights": 1,
+                          "basisType": "NIGHTS",
+                          "taxInclusive": null,
+                          "feeInclusive": null,
+                          "applyAs": null,
+                          "currencyCode": "USD",
+                          "amount": null,
+                          "decimalPlaces": null
+                        },
+                        "penaltyDescription": null,
+                        "serviceFee": null,
+                        "cancellationAmount": {
+                          "value": 11302,
+                          "currencyCode": "USD",
+                          "taxes": null,
+                          "type": null
+                        }
+                      },
+                      {
+                        "deadlinetObj": {
+                          "offSetDropTime": "BEFOREARRIVAL",
+                          "value": 0,
+                          "offsetTimeUnit": "DAY",
+                          "offsetUnitMultiplier": 99999
+                        },
+                        "amountPercentObj": {
+                          "percent": 0,
+                          "numOfNights": null,
+                          "basisType": null,
+                          "taxInclusive": null,
+                          "feeInclusive": null,
+                          "applyAs": null,
+                          "currencyCode": "USD",
+                          "amount": null,
+                          "decimalPlaces": null
+                        },
+                        "penaltyDescription": null,
+                        "serviceFee": null,
+                        "cancellationAmount": {
+                          "value": 0,
+                          "currencyCode": "USD",
+                          "taxes": null,
+                          "type": null
+                        }
+                      },
+                      {
+                        "deadlinetObj": null,
+                        "amountPercentObj": null,
+                        "penaltyDescription": null,
+                        "serviceFee": 0,
+                        "cancellationAmount": null
+                      }
+                    ],
+                    "penaltyDescription": {
+                      "name": null,
+                      "description": "More than 1 day before check-in date: FREE CANCELLATION/MODIFICATION; 1 day before check-in date: 1 night cost will be charged as cancellation/modification fee; In case of no show: no refund; Booking cannot be cancelled/modified on or after the check in date and time mentioned in the Hotel Confirmation Voucher ."
+                    },
+                    "tillDate": "18-May-2017 02:00 PM IST",
+                    "sponsorer": null,
+                    "freeCancellationText": "Free Cancellation before 18-May-2017 02:00 PM IST"
+                  }
+                ],
+                "displayFare": {
+                  "tax": {
+                    "value": 13.74
+                  },
+                  "slashedPrice": {
+                    "value": 170.66,
+                    "maxFraction": 0,
+                    "avgeragePriceNoTax": 170.66,
+                    "averagePriceWithTax": 184.4,
+                    "sellingPriceNoTax": 170.66,
+                    "sellingPriceWithTax": 184.4
+                  },
+                  "actualPrice": {
+                    "value": 170.66,
+                    "maxFraction": 0,
+                    "avgeragePriceNoTax": 170.66,
+                    "averagePriceWithTax": 184.4,
+                    "sellingPriceNoTax": 170.66,
+                    "sellingPriceWithTax": 184.4
+                  },
+                  "bestCouponByPaymode": {
+                    "PAS": {
+                      "couponCode": "SUPERSTAR",
+                      "type": "ECOUPON",
+                      "description": "get INR 5291 off",
+                      "discountAmount": 81.90782219701983,
+                      "couponDetails": [
+                        {
+                          "moreVerificationRequired": false,
+                          "discountTypeCode": "INSTANT",
+                          "timeOfCredit": "Booking",
+                          "discountType": "Instant",
+                          "discount": 81.90782219701983,
+                          "cashbackAmount": 0,
+                          "cdfValidated": false,
+                          "ecoupon": false
+                        }
+                      ],
+                      "paymentModel": "PAS",
+                      "hybridDiscounts": {
+                        "INSTANT": 81.90782219701983
+                      },
+                      "tncUrl": "http://promos.makemytrip.com/mmdelight_29072016.html"
+                    }
+                  },
+                  "extraAdult": {
+                    "value": 0
+                  },
+                  "totalTariff": {
+                    "grandTotal": 184.4,
+                    "subTotal": 170.66,
+                    "discount": 0,
+                    "taxes": 13.74,
+                    "extraPax": 0
+                  },
+                  "taxDetails": {
+                    "actualTax": 27.46,
+                    "markup": 11.95,
+                    "serviceTaxOnMarkup": 1.79
+                  },
+                  "conversionFactor": 64.597005
+                },
+                "supplierDetails": {
+                  "supplierCode": "MMT",
+                  "costPrice": 143.81,
+                  "hotelierCurrencyCode": "INR"
+                },
+                "roomTariff": [
+                  {
+                    "perNightPrice": 170.66,
+                    "extraPrice": 0,
+                    "taxes": 13.74,
+                    "totalPricePerRoom": 170.66,
+                    "numberOfAdults": 2,
+                    "numberOfChildren": 0,
+                    "roomDiscountPerNight": 0,
+                    "roomDiscountTax": 0,
+                    "extraChildFarePerNight": 0,
+                    "startDate": "2017-05-19",
+                    "endDate": "2017-05-20",
+                    "roomNumber": "1"
+                  }
+                ],
+                "ratePlanType": "ONLINE",
+                "mtKey": "N$$s9rHC9RN7n%2FIHmvEWs1QYuWgArGIp9K6ebnmJZ51UzW1KulELA%2FjIYDkKNnkW7akdGFxRtS2wompgdzIv3pSOwriHW8avKcHIzkfEzsiedAWEyrGCyd%2ByhbTknuHMwgndRUVNCvN4zVQm3FgDKZPFqXihmHfz3osdFh5YwH0ctJUU%2F%2B7qBG0C0VOIZprZz8sjf4%2FDLhF5y5dH0A7zOHqY5zZGBh8gnNC1OXXIuMi4LbfClCcV1vPB8YUl2rY7vvB2NM1gz%2FhiQTznBM%2B5IY%2FIV%2FUX0IHGEoZyJvbkjcysDDFWiD2DdPoliFtoFHyufY%2FEudiU6QlJcFhtwDLdKgIZolZfoAhvRxUuRGL6bmSCEbPQgonilUqmVcD%2B6xKGgvSfTy0Ie085EPlin576ZPK%2F4zkzt7Tftg%2BqSHqGtczzhagcW2xER8jZ0Vc5DzlnAYxn1RfUIW%2B47w%3D",
+                "promotionsList": [],
+                "apAppliedPromotions": [
+                  {
+                    "promoLevel": "apLevel",
+                    "promoType": "Mark-Up",
+                    "amount": 771.68
+                  },
+                  {
+                    "promoLevel": "apLevel",
+                    "promoType": "Discount",
+                    "amount": 0
+                  },
+                  {
+                    "promoLevel": "apLevel",
+                    "promoType": "ServiceTaxOnMarkup",
+                    "amount": 115.75
+                  }
+                ],
+                "checkCancellationPolicy": false,
+                "checkInclusions": false,
+                "segmentId": "G",
+                "inclusionAndPolicyAvailVar": true,
+                "suppressPas": false
+              },
+              "53975360477028***G": {
+                "inclusions": [
+                  {
+                    "startDate": 1495132200000,
+                    "endDate": 1495218600000,
+                    "value": "Internet Charges extra applicable as per hotel policies",
+                    "code": "Internet Charges extra applicable as per hotel policies"
+                  }
+                ],
+                "mealPlans": [
+                  {
+                    "startDate": 1495132200000,
+                    "endDate": 1495218600000,
+                    "code": "MAP",
+                    "value": "2 meals -  Breakfast & Lunch or Dinner"
+                  }
+                ],
+                "availDetails": {
+                  "status": "B",
+                  "count": 4
+                },
+                "paymentDetails": {
+                  "paymentMode": "PAS",
+                  "cardChargePolicy": null
+                },
+                "cancelPenaltyList": [
+                  {
+                    "cancellationType": "FREE_CANCELLATON",
+                    "cancelPenaltiesRule": [
+                      {
+                        "deadlinetObj": {
+                          "offSetDropTime": "BEFOREARRIVAL",
+                          "value": 0,
+                          "offsetTimeUnit": "DAY",
+                          "offsetUnitMultiplier": 1
+                        },
+                        "amountPercentObj": {
+                          "percent": null,
+                          "numOfNights": 1,
+                          "basisType": "NIGHTS",
+                          "taxInclusive": null,
+                          "feeInclusive": null,
+                          "applyAs": null,
+                          "currencyCode": "USD",
+                          "amount": null,
+                          "decimalPlaces": null
+                        },
+                        "penaltyDescription": null,
+                        "serviceFee": null,
+                        "cancellationAmount": {
+                          "value": 18327,
+                          "currencyCode": "USD",
+                          "taxes": null,
+                          "type": null
+                        }
+                      },
+                      {
+                        "deadlinetObj": {
+                          "offSetDropTime": "BEFOREARRIVAL",
+                          "value": 0,
+                          "offsetTimeUnit": "DAY",
+                          "offsetUnitMultiplier": 99999
+                        },
+                        "amountPercentObj": {
+                          "percent": 0,
+                          "numOfNights": null,
+                          "basisType": null,
+                          "taxInclusive": null,
+                          "feeInclusive": null,
+                          "applyAs": null,
+                          "currencyCode": "USD",
+                          "amount": null,
+                          "decimalPlaces": null
+                        },
+                        "penaltyDescription": null,
+                        "serviceFee": null,
+                        "cancellationAmount": {
+                          "value": 0,
+                          "currencyCode": "USD",
+                          "taxes": null,
+                          "type": null
+                        }
+                      },
+                      {
+                        "deadlinetObj": null,
+                        "amountPercentObj": null,
+                        "penaltyDescription": null,
+                        "serviceFee": 0,
+                        "cancellationAmount": null
+                      }
+                    ],
+                    "penaltyDescription": {
+                      "name": null,
+                      "description": "More than 1 day before check-in date: FREE CANCELLATION/MODIFICATION; 1 day before check-in date: 1 night cost will be charged as cancellation/modification fee; In case of no show: no refund; Booking cannot be cancelled/modified on or after the check in date and time mentioned in the Hotel Confirmation Voucher ."
+                    },
+                    "tillDate": "18-May-2017 02:00 PM IST",
+                    "sponsorer": null,
+                    "freeCancellationText": "Free Cancellation before 18-May-2017 02:00 PM IST"
+                  }
+                ],
+                "displayFare": {
+                  "tax": {
+                    "value": 22.28
+                  },
+                  "slashedPrice": {
+                    "value": 276.75,
+                    "maxFraction": 0,
+                    "avgeragePriceNoTax": 276.75,
+                    "averagePriceWithTax": 299.02,
+                    "sellingPriceNoTax": 276.75,
+                    "sellingPriceWithTax": 299.02
+                  },
+                  "actualPrice": {
+                    "value": 276.75,
+                    "maxFraction": 0,
+                    "avgeragePriceNoTax": 276.75,
+                    "averagePriceWithTax": 299.02,
+                    "sellingPriceNoTax": 276.75,
+                    "sellingPriceWithTax": 299.02
+                  },
+                  "bestCouponByPaymode": {
+                    "PAS": {
+                      "couponCode": "SUPERSTAR",
+                      "type": "ECOUPON",
+                      "description": "get INR 6000 off",
+                      "discountAmount": 92.88356325498373,
+                      "couponDetails": [
+                        {
+                          "moreVerificationRequired": false,
+                          "discountTypeCode": "INSTANT",
+                          "timeOfCredit": "Booking",
+                          "discountType": "Instant",
+                          "discount": 92.88356325498373,
+                          "cashbackAmount": 0,
+                          "cdfValidated": false,
+                          "ecoupon": false
+                        }
+                      ],
+                      "paymentModel": "PAS",
+                      "hybridDiscounts": {
+                        "INSTANT": 92.88356325498373
+                      },
+                      "tncUrl": "http://promos.makemytrip.com/mmdelight_29072016.html"
+                    }
+                  },
+                  "extraAdult": {
+                    "value": 0
+                  },
+                  "totalTariff": {
+                    "grandTotal": 299.02,
+                    "subTotal": 276.75,
+                    "discount": 0,
+                    "taxes": 22.28,
+                    "extraPax": 0
+                  },
+                  "taxDetails": {
+                    "actualTax": 44.54,
+                    "markup": 19.37,
+                    "serviceTaxOnMarkup": 2.91
+                  },
+                  "conversionFactor": 64.597005
+                },
+                "supplierDetails": {
+                  "supplierCode": "MMT",
+                  "costPrice": 233.21,
+                  "hotelierCurrencyCode": "INR"
+                },
+                "roomTariff": [
+                  {
+                    "perNightPrice": 276.75,
+                    "extraPrice": 0,
+                    "taxes": 22.28,
+                    "totalPricePerRoom": 276.75,
+                    "numberOfAdults": 2,
+                    "numberOfChildren": 0,
+                    "roomDiscountPerNight": 0,
+                    "roomDiscountTax": 0,
+                    "extraChildFarePerNight": 0,
+                    "startDate": "2017-05-19",
+                    "endDate": "2017-05-20",
+                    "roomNumber": "1"
+                  }
+                ],
+                "ratePlanType": "ONLINE",
+                "mtKey": "N$$s9rHC9RN7n%2BSo05hxe%2FRXvyNtjfQRR2jmJoMyMAskajGxWU7t4YrlPuFjlwe0hi6Wq%2Fs3G7FtZVDjquHSASR1gmB2nHhWucGF2Kr35ob1KgIr8wnWtYOM%2BwlE6Z%2BG6EPXkyT2y1eYwDN3Jja3FOhYqc%2BxwVm84s5YdntXZ%2BOCoJl7wCVGa2S8vy16LtVYmcHGi2N2b8%2Bs5UZSeo921Z7QGOElLaXrgmi0iu%2FGDSoK%2FgwWSCEPUz4Bf6DxoOsr0FAk%2BxoaVzqiSTbwp0cpfmK26U7xQC83mJwuboF5eAAs0HOGeM0cK14UZyjN6tecqBc6wlkCME5gingMMi5a7duKB5Hy2iJZHNdN0l%2FR1Of11voFl4AJOYsC9XfQm%2BES4GLLokfRr%2FFpGKP6P3eklaCUz522%2BM8nnkKziw19VEYLtwXj4PFmWh10rErb%2FcU1nhso4colmorOqnwBTvpc8%2Brug%3D%3D",
+                "promotionsList": [],
+                "apAppliedPromotions": [
+                  {
+                    "promoLevel": "apLevel",
+                    "promoType": "Mark-Up",
+                    "amount": 1251.39
+                  },
+                  {
+                    "promoLevel": "apLevel",
+                    "promoType": "Discount",
+                    "amount": 0
+                  },
+                  {
+                    "promoLevel": "apLevel",
+                    "promoType": "ServiceTaxOnMarkup",
+                    "amount": 187.71
+                  }
+                ],
+                "checkCancellationPolicy": false,
+                "checkInclusions": false,
+                "segmentId": "G",
+                "inclusionAndPolicyAvailVar": true,
+                "suppressPas": false
+              }
+            },
+            "roomTypeName": "Superior Room Pool View",
+            "roomTypeCode": "233252",
+            "bedSize": null,
+            "roomSize": null,
+            "viewType": null
+          },
+          "233256": {
+            "ratePlanList": {
+              "19371232372785***G": {
+                "inclusions": [
+                  {
+                    "startDate": 1495132200000,
+                    "endDate": 1495218600000,
+                    "value": "Complimentary Service of Unlimited Alcoholic/Non Alcoholic Drinks from 7 PM to 9 PM at Club Lounge",
+                    "code": "Complimentary Service of Unlimited Alcoholic/Non Alcoholic Drinks from 7 PM to 9 PM at Club Lounge"
+                  }
+                ],
+                "mealPlans": [
+                  {
+                    "startDate": 1495132200000,
+                    "endDate": 1495218600000,
+                    "code": "CP",
+                    "value": "Breakfast"
+                  }
+                ],
+                "availDetails": {
+                  "status": "B",
+                  "count": 5
+                },
+                "paymentDetails": {
+                  "paymentMode": "PAS",
+                  "cardChargePolicy": null
+                },
+                "cancelPenaltyList": [
+                  {
+                    "cancellationType": "FREE_CANCELLATON",
+                    "cancelPenaltiesRule": [
+                      {
+                        "deadlinetObj": {
+                          "offSetDropTime": "BEFOREARRIVAL",
+                          "value": 0,
+                          "offsetTimeUnit": "DAY",
+                          "offsetUnitMultiplier": 1
+                        },
+                        "amountPercentObj": {
+                          "percent": 100,
+                          "numOfNights": null,
+                          "basisType": null,
+                          "taxInclusive": null,
+                          "feeInclusive": null,
+                          "applyAs": null,
+                          "currencyCode": "USD",
+                          "amount": null,
+                          "decimalPlaces": null
+                        },
+                        "penaltyDescription": null,
+                        "serviceFee": null,
+                        "cancellationAmount": {
+                          "value": 14356,
+                          "currencyCode": "USD",
+                          "taxes": null,
+                          "type": null
+                        }
+                      },
+                      {
+                        "deadlinetObj": {
+                          "offSetDropTime": "BEFOREARRIVAL",
+                          "value": 0,
+                          "offsetTimeUnit": "DAY",
+                          "offsetUnitMultiplier": 99999
+                        },
+                        "amountPercentObj": {
+                          "percent": 0,
+                          "numOfNights": null,
+                          "basisType": null,
+                          "taxInclusive": null,
+                          "feeInclusive": null,
+                          "applyAs": null,
+                          "currencyCode": "USD",
+                          "amount": null,
+                          "decimalPlaces": null
+                        },
+                        "penaltyDescription": null,
+                        "serviceFee": null,
+                        "cancellationAmount": {
+                          "value": 0,
+                          "currencyCode": "USD",
+                          "taxes": null,
+                          "type": null
+                        }
+                      },
+                      {
+                        "deadlinetObj": null,
+                        "amountPercentObj": null,
+                        "penaltyDescription": null,
+                        "serviceFee": 0,
+                        "cancellationAmount": null
+                      }
+                    ],
+                    "penaltyDescription": {
+                      "name": null,
+                      "description": "More than 1 day before check-in date: FREE CANCELLATION/MODIFICATION; 1 day before check-in date: no refund; In case of no show: no refund .Booking cannot be cancelled/modified on or after the check in date and time mentioned in the Hotel Confirmation Voucher."
+                    },
+                    "tillDate": "18-May-2017 02:00 PM IST",
+                    "sponsorer": null,
+                    "freeCancellationText": "Free Cancellation before 18-May-2017 02:00 PM IST"
+                  }
+                ],
+                "displayFare": {
+                  "tax": {
+                    "value": 17.45
+                  },
+                  "slashedPrice": {
+                    "value": 216.79,
+                    "maxFraction": 0,
+                    "avgeragePriceNoTax": 216.79,
+                    "averagePriceWithTax": 234.24,
+                    "sellingPriceNoTax": 216.79,
+                    "sellingPriceWithTax": 234.24
+                  },
+                  "actualPrice": {
+                    "value": 216.79,
+                    "maxFraction": 0,
+                    "avgeragePriceNoTax": 216.79,
+                    "averagePriceWithTax": 234.24,
+                    "sellingPriceNoTax": 216.79,
+                    "sellingPriceWithTax": 234.24
+                  },
+                  "bestCouponByPaymode": {
+                    "PAS": {
+                      "couponCode": "SUPERSTAR",
+                      "type": "ECOUPON",
+                      "description": "get INR 6000 off",
+                      "discountAmount": 92.88356325498373,
+                      "couponDetails": [
+                        {
+                          "moreVerificationRequired": false,
+                          "discountTypeCode": "INSTANT",
+                          "timeOfCredit": "Booking",
+                          "discountType": "Instant",
+                          "discount": 92.88356325498373,
+                          "cashbackAmount": 0,
+                          "cdfValidated": false,
+                          "ecoupon": false
+                        }
+                      ],
+                      "paymentModel": "PAS",
+                      "hybridDiscounts": {
+                        "INSTANT": 92.88356325498373
+                      },
+                      "tncUrl": "http://promos.makemytrip.com/mmdelight_29072016.html"
+                    }
+                  },
+                  "extraAdult": {
+                    "value": 0
+                  },
+                  "totalTariff": {
+                    "grandTotal": 234.24,
+                    "subTotal": 216.79,
+                    "discount": 0,
+                    "taxes": 17.45,
+                    "extraPax": 0
+                  },
+                  "taxDetails": {
+                    "actualTax": 34.89,
+                    "markup": 15.18,
+                    "serviceTaxOnMarkup": 2.28
+                  },
+                  "conversionFactor": 64.597005
+                },
+                "supplierDetails": {
+                  "supplierCode": "MMT",
+                  "costPrice": 182.68,
+                  "hotelierCurrencyCode": "INR"
+                },
+                "roomTariff": [
+                  {
+                    "perNightPrice": 216.79,
+                    "extraPrice": 0,
+                    "taxes": 17.45,
+                    "totalPricePerRoom": 216.79,
+                    "numberOfAdults": 2,
+                    "numberOfChildren": 0,
+                    "roomDiscountPerNight": 0,
+                    "roomDiscountTax": 0,
+                    "extraChildFarePerNight": 0,
+                    "startDate": "2017-05-19",
+                    "endDate": "2017-05-20",
+                    "roomNumber": "1"
+                  }
+                ],
+                "ratePlanType": "ONLINE",
+                "mtKey": "N$$s9rHC9RN7n%2B7K6H6%2Ftp1hvX%2BwSQ%2Bz2yo2beE20rGrhypi%2FmG6KTHaVOjfc8FuOyFqTsw0hLxB6FpLXGNE2VD8uNWkym82rvG0oIdJLr7u8sJx0fa2Tj7BENphcNuwFpUxO2yUXMNGgCcFYfq0HyLeZulcpkibaVQw0xp4PiCrYHym9puVJzOJp54KIhYg7G0%2BCbMTolNoeGNBSSWSIKjbVj%2FW2icZl6b0Y1SOVyAgwC7ncgaYpStW6qqH13UeXodKmKsylzN0lujh5GumBUztZm0iyHCTQMX6w7AnrbMvN%2FjcH39IOgUXdvPiVYm%2BFU4WDqGhDhC7FoXl1vCv9d2ZpHB%2FTyy1pIPxoYP%2Fae%2BGpAmu3bHhWoemYAJFv9R18Ay82TnzDCcj66H1bjWl23OA93xox63X6bxBZwPEmutAVVp5FXuwoIjYdHdy93FD4s0pBO8CXeZf2UHOYqGbm%2F7zg%3D%3D",
+                "promotionsList": [],
+                "apAppliedPromotions": [
+                  {
+                    "promoLevel": "apLevel",
+                    "promoType": "Mark-Up",
+                    "amount": 980.28
+                  },
+                  {
+                    "promoLevel": "apLevel",
+                    "promoType": "Discount",
+                    "amount": 0
+                  },
+                  {
+                    "promoLevel": "apLevel",
+                    "promoType": "ServiceTaxOnMarkup",
+                    "amount": 147.04
+                  }
+                ],
+                "checkCancellationPolicy": false,
+                "checkInclusions": false,
+                "segmentId": "G",
+                "inclusionAndPolicyAvailVar": true,
+                "suppressPas": false
+              }
+            },
+            "roomTypeName": "Club Superior Pool View",
+            "roomTypeCode": "233256",
+            "bedSize": null,
+            "roomSize": null,
+            "viewType": null
+          }
+        }
+      },
+      "userEligiblePayMode": "PAH2",
+      "promotions": {
+        "opaquePromotion": {
+          "techShowOpaque": false
+        },
+        "promotionsCount": 0
+      },
+      "showFcBanner": false,
+      "freeCancellation": true,
+      "freeCancellationAvailable": true,
+      "breakFast": true,
+      "breakFastAvailable": true
+    }
+  ],
+  "correlationKey": "FOO_CORRELATION_KEY"
+}

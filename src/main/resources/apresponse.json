@@ -1,0 +1,1243 @@
+{
+  "pos": {
+    "requestor": {
+      "idContext": "312165",
+      "type": "B2CAgent",
+      "channel": "B2Cweb"
+    },
+    "source": {
+      "applicationID": "410",
+      "isocurrency": "USD"
+    },
+    "sourceIp": "10.106.5.103",
+    "correlationKey": "FOO_CORRELATION_KEY"
+  },
+  "responseCode": {
+    "success": true
+  },
+  "responseStatus": {
+    "success": true
+  },
+  "searchResult": {
+    "total": 1,
+    "limit": 1,
+    "page": 1,
+    "hotels": [
+      {
+        "id": "200704092047307700",
+        "idContext": "",
+        "chainCode": "",
+        "name": "Sun-N-Sand",
+        "propertyInfo": {
+          "roomStays": [
+            {
+              "roomTypes": [
+                {
+                  "code": "33837",
+                  "name": "Superior Room City View"
+                },
+                {
+                  "code": "233252",
+                  "name": "Superior Room Pool View"
+                },
+                {
+                  "code": "233250",
+                  "name": "Club Superior City View"
+                },
+                {
+                  "code": "4",
+                  "name": "Executive"
+                },
+                {
+                  "code": "233256",
+                  "name": "Club Superior Pool View"
+                },
+                {
+                  "code": "233248",
+                  "name": "Luxury Sea View Suite"
+                }
+              ],
+              "ratePlans": [
+                {
+                  "code": "73826256780086***G",
+                  "name": "73826256780086***G",
+                  "type": "ONLINE",
+                  "mealPlan": [
+                    {
+                      "code": "CP",
+                      "startDate": 1495132200000,
+                      "endDate": 1495218600000,
+                      "value": "Breakfast"
+                    }
+                  ],
+                  "inclusion": [
+                    {
+                      "code": "...",
+                      "startDate": 1495132200000,
+                      "endDate": 1495218600000,
+                      "value": "..."
+                    },
+                    {
+                      "code": "Internet Charges extra applicable as per hotel policies",
+                      "startDate": 1495132200000,
+                      "endDate": 1495218600000,
+                      "value": "Internet Charges extra applicable as per hotel policies"
+                    }
+                  ],
+                  "supplierCode": "MMT",
+                  "rpcc": "73826256780086"
+                },
+                {
+                  "code": "36604920943988***G",
+                  "name": "36604920943988***G",
+                  "type": "ONLINE",
+                  "mealPlan": [
+                    {
+                      "code": "CP",
+                      "startDate": 1495132200000,
+                      "endDate": 1495218600000,
+                      "value": "Breakfast"
+                    }
+                  ],
+                  "inclusion": [
+                    {
+                      "code": "Internet Charges extra applicable as per hotel policies",
+                      "startDate": 1495132200000,
+                      "endDate": 1495218600000,
+                      "value": "Internet Charges extra applicable as per hotel policies"
+                    }
+                  ],
+                  "supplierCode": "MMT",
+                  "rpcc": "36604920943988"
+                },
+                {
+                  "code": "73986392615453***G",
+                  "name": "73986392615453***G",
+                  "type": "ONLINE",
+                  "mealPlan": [
+                    {
+                      "code": "CP",
+                      "startDate": 1495132200000,
+                      "endDate": 1495218600000,
+                      "value": "Breakfast"
+                    }
+                  ],
+                  "inclusion": [
+                    {
+                      "code": "Complimentary Service of Unlimited Alcoholic/Non Alcoholic Drinks from 7 PM to 9 PM at Club Lounge",
+                      "startDate": 1495132200000,
+                      "endDate": 1495218600000,
+                      "value": "Complimentary Service of Unlimited Alcoholic/Non Alcoholic Drinks from 7 PM to 9 PM at Club Lounge"
+                    }
+                  ],
+                  "supplierCode": "MMT",
+                  "rpcc": "73986392615453"
+                },
+                {
+                  "code": "19407936807963***G",
+                  "name": "19407936807963***G",
+                  "type": "ONLINE",
+                  "mealPlan": [
+                    {
+                      "code": "CP",
+                      "startDate": 1495132200000,
+                      "endDate": 1495218600000,
+                      "value": "Breakfast"
+                    }
+                  ],
+                  "inclusion": [
+                    {
+                      "code": "Internet Charges extra applicable as per hotel policies",
+                      "startDate": 1495132200000,
+                      "endDate": 1495218600000,
+                      "value": "Internet Charges extra applicable as per hotel policies"
+                    }
+                  ],
+                  "paymentModes": [
+                    "CUSTOMERS_CC"
+                  ],
+                  "supplierCode": "MMT",
+                  "rpcc": "19407936807963"
+                },
+                {
+                  "code": "19371232372785***G",
+                  "name": "19371232372785***G",
+                  "type": "ONLINE",
+                  "mealPlan": [
+                    {
+                      "code": "CP",
+                      "startDate": 1495132200000,
+                      "endDate": 1495218600000,
+                      "value": "Breakfast"
+                    }
+                  ],
+                  "inclusion": [
+                    {
+                      "code": "Complimentary Service of Unlimited Alcoholic/Non Alcoholic Drinks from 7 PM to 9 PM at Club Lounge",
+                      "startDate": 1495132200000,
+                      "endDate": 1495218600000,
+                      "value": "Complimentary Service of Unlimited Alcoholic/Non Alcoholic Drinks from 7 PM to 9 PM at Club Lounge"
+                    }
+                  ],
+                  "supplierCode": "MMT",
+                  "rpcc": "19371232372785"
+                },
+                {
+                  "code": "92819720942087***G",
+                  "name": "92819720942087***G",
+                  "type": "ONLINE",
+                  "mealPlan": [
+                    {
+                      "code": "MAP",
+                      "startDate": 1495132200000,
+                      "endDate": 1495218600000,
+                      "value": "2 meals -  Breakfast & Lunch or Dinner"
+                    }
+                  ],
+                  "inclusion": [
+                    {
+                      "code": "...",
+                      "startDate": 1495132200000,
+                      "endDate": 1495218600000,
+                      "value": "..."
+                    },
+                    {
+                      "code": "Internet Charges extra applicable as per hotel policies",
+                      "startDate": 1495132200000,
+                      "endDate": 1495218600000,
+                      "value": "Internet Charges extra applicable as per hotel policies"
+                    }
+                  ],
+                  "supplierCode": "MMT",
+                  "rpcc": "92819720942087"
+                },
+                {
+                  "code": "53975360477028***G",
+                  "name": "53975360477028***G",
+                  "type": "ONLINE",
+                  "mealPlan": [
+                    {
+                      "code": "MAP",
+                      "startDate": 1495132200000,
+                      "endDate": 1495218600000,
+                      "value": "2 meals -  Breakfast & Lunch or Dinner"
+                    }
+                  ],
+                  "inclusion": [
+                    {
+                      "code": "Internet Charges extra applicable as per hotel policies",
+                      "startDate": 1495132200000,
+                      "endDate": 1495218600000,
+                      "value": "Internet Charges extra applicable as per hotel policies"
+                    }
+                  ],
+                  "supplierCode": "MMT",
+                  "rpcc": "53975360477028"
+                },
+                {
+                  "code": "79592536971798***G",
+                  "name": "79592536971798***G",
+                  "type": "ONLINE",
+                  "mealPlan": [
+                    {
+                      "code": "CP",
+                      "startDate": 1495132200000,
+                      "endDate": 1495218600000,
+                      "value": "Breakfast"
+                    }
+                  ],
+                  "inclusion": [
+                    {
+                      "code": "Internet Charges extra applicable as per hotel policies",
+                      "startDate": 1495132200000,
+                      "endDate": 1495218600000,
+                      "value": "Internet Charges extra applicable as per hotel policies"
+                    }
+                  ],
+                  "supplierCode": "MMT",
+                  "rpcc": "79592536971798"
+                }
+              ],
+              "roomRates": [
+                {
+                  "ratePlanCode": "73826256780086***G",
+                  "roomTypeCode": "33837",
+                  "rate": {
+                    "cancelPenalties": [
+                      {
+                        "cancellationType": "FREE_CANCELLATON",
+                        "penaltyDescription": {
+                          "description": "More than 1 day before check-in date: FREE CANCELLATION/MODIFICATION; 1 day before check-in date: no refund; In case of no show: no refund .Booking cannot be cancelled/modified on or after the check in date and time mentioned in the Hotel Confirmation Voucher."
+                        },
+                        "tillDate": "18-May-2017 02:00 PM IST",
+                        "cancelPenalties": [
+                          {
+                            "deadlinetObj": {
+                              "offSetDropTime": "BeforeArrival",
+                              "value": 0,
+                              "offsetUnitMultiplier": 1.0,
+                              "offsetTimeUnit": "day"
+                            },
+                            "amountPercentObj": {
+                              "percent": 100.0
+                            },
+                            "cancellationAmount": {
+                              "value": 10065.0,
+                              "currencyCode": "INR"
+                            }
+                          },
+                          {
+                            "deadlinetObj": {
+                              "offSetDropTime": "BeforeArrival",
+                              "value": 0,
+                              "offsetUnitMultiplier": 99999.0,
+                              "offsetTimeUnit": "day"
+                            },
+                            "amountPercentObj": {
+                              "percent": 0.0
+                            },
+                            "cancellationAmount": {
+                              "value": 0.0,
+                              "currencyCode": "INR"
+                            }
+                          },
+                          {
+                            "serviceFee": 0.0
+                          }
+                        ]
+                      }
+                    ],
+                    "roomTariffs": [
+                      {
+                        "id": "1",
+                        "tariffs": [
+                          {
+                            "group": "ROOM_RATE",
+                            "type": "ROOM_RENT",
+                            "amount": "8250",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "ROOM_RATE",
+                            "type": "FIRSTNIGHTROOMRENT",
+                            "amount": "8250.0",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "TAXES",
+                            "type": "TAXES",
+                            "amount": "2255.26",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "MISC",
+                            "type": "PROFIT",
+                            "amount": "2337.76",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "TAXES",
+                            "type": "MARKUP",
+                            "amount": "687.26",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "TAXES",
+                            "type": "SERVICE_TAX_ON_MARKUP",
+                            "amount": "103.09",
+                            "currencyCode": "INR"
+                          }
+                        ]
+                      }
+                    ],
+                    "promotions": [
+                      {
+                        "promoLevel": "AP_LEVEL_PROMO",
+                        "promoType": "Mark-Up",
+                        "promoAmount": 687.26
+                      },
+                      {
+                        "promoLevel": "AP_LEVEL_PROMO",
+                        "promoType": "Discount",
+                        "promoAmount": 0.0
+                      },
+                      {
+                        "promoLevel": "AP_LEVEL_PROMO",
+                        "promoType": "ServiceTaxOnMarkup",
+                        "promoAmount": 103.09
+                      }
+                    ]
+                  },
+                  "availStatus": "B",
+                  "availableCount": 7,
+                  "inclusionAndPolicyAvail": true,
+                  "mtKey": "N$$s9rHC9RN7n9XU8jSS%2BHsrE8X%2B%2FVdwwLrGz21LxL1dqwXcYmyhSLA5lTYpflAVWARRy6q8rVQqMUkm4kMtl0tSC%2B1UKNrRseZmPn%2BlbSrGCijvFQtIEK9BUnz%2FvULFQ56r3jVig%2BBjLDfmSQNvLGRIRZKd8j%2FA9DvjK2Ajke%2FRgbPKDNsfImhNTkI991pS26Lx5xvuLx0rKtq76dxPcm%2F0ZfEgnxM%2BTEHTPF%2FYdot1eiariHTsBRxByFjdwggZOmXVZFNpXaUSu8tr10P0zEDVje5sxkn5CvytULLmJGppfoozDfvcA8J0lFHxkHKI60JBh0IzTywoCJ2ng6EHvtusTLoFcyBSpai%2Bd1GEV%2BRbCeHeKvA9DpMbDBnjglCXHp6DLYrBZ%2FpOvdj%2BS4fy3XvTmmZtIJiLMS2o9X2OM4j05BhQa4fm1LYrsFFAF7BbVqP9J1q7s75l8o%3D",
+                  "ratePlanType": "ONLINE",
+                  "segmentId": "G"
+                },
+                {
+                  "ratePlanCode": "36604920943988***G",
+                  "roomTypeCode": "233252",
+                  "rate": {
+                    "cancelPenalties": [
+                      {
+                        "cancellationType": "FREE_CANCELLATON",
+                        "penaltyDescription": {
+                          "description": "More than 1 day before check-in date: FREE CANCELLATION/MODIFICATION; 1 day before check-in date: 1 night cost will be charged as cancellation/modification fee; In case of no show: no refund; Booking cannot be cancelled/modified on or after the check in date and time mentioned in the Hotel Confirmation Voucher ."
+                        },
+                        "tillDate": "18-May-2017 02:00 PM IST",
+                        "cancelPenalties": [
+                          {
+                            "deadlinetObj": {
+                              "offSetDropTime": "BeforeArrival",
+                              "value": 0,
+                              "offsetUnitMultiplier": 1.0,
+                              "offsetTimeUnit": "day"
+                            },
+                            "amountPercentObj": {
+                              "numOfNights": 1.0,
+                              "basisType": "Nights"
+                            },
+                            "cancellationAmount": {
+                              "value": 11302.0,
+                              "currencyCode": "INR"
+                            }
+                          },
+                          {
+                            "deadlinetObj": {
+                              "offSetDropTime": "BeforeArrival",
+                              "value": 0,
+                              "offsetUnitMultiplier": 99999.0,
+                              "offsetTimeUnit": "day"
+                            },
+                            "amountPercentObj": {
+                              "percent": 0.0
+                            },
+                            "cancellationAmount": {
+                              "value": 0.0,
+                              "currencyCode": "INR"
+                            }
+                          },
+                          {
+                            "serviceFee": 0.0
+                          }
+                        ]
+                      }
+                    ],
+                    "roomTariffs": [
+                      {
+                        "id": "1",
+                        "tariffs": [
+                          {
+                            "group": "ROOM_RATE",
+                            "type": "ROOM_RENT",
+                            "amount": "9250",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "ROOM_RATE",
+                            "type": "FIRSTNIGHTROOMRENT",
+                            "amount": "9250.0",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "TAXES",
+                            "type": "TAXES",
+                            "amount": "2545.68",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "MISC",
+                            "type": "PROFIT",
+                            "amount": "2621.53",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "TAXES",
+                            "type": "MARKUP",
+                            "amount": "771.68",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "TAXES",
+                            "type": "SERVICE_TAX_ON_MARKUP",
+                            "amount": "115.75",
+                            "currencyCode": "INR"
+                          }
+                        ]
+                      }
+                    ],
+                    "promotions": [
+                      {
+                        "promoLevel": "AP_LEVEL_PROMO",
+                        "promoType": "Mark-Up",
+                        "promoAmount": 771.68
+                      },
+                      {
+                        "promoLevel": "AP_LEVEL_PROMO",
+                        "promoType": "Discount",
+                        "promoAmount": 0.0
+                      },
+                      {
+                        "promoLevel": "AP_LEVEL_PROMO",
+                        "promoType": "ServiceTaxOnMarkup",
+                        "promoAmount": 115.75
+                      }
+                    ]
+                  },
+                  "availStatus": "B",
+                  "availableCount": 4,
+                  "inclusionAndPolicyAvail": true,
+                  "mtKey": "N$$s9rHC9RN7n9XU8jSS%2BHsrE8X%2B%2FVdwwLre%2FBL2jUOidzaubORG4%2FuqFreWFIJ8BwZOnadzmxv5Tm4KhUqwbXw9XS7vNUnpJid%2FJSSzju2MxKL4j1I7EVt8onAG13RAhQ2XMgYC3hzXbT00A3q1pp5RS3FYyWUxnp%2Fbd2G6tFKt3WThK%2FgxNsINO4zEOFVwGgboBinKST4o4hYlwg4AXGZY%2BY8S9LVh18CT3HL5t2gcg9YaMJrU06ut5BNFTIXr5PR6Jq%2FzzE4hLqC9Hp%2BrNW9jFEawlQ6cbUG7knXVK4J6OgLsx1MTONwnHMaTjANA3vvUQ0GcnB51NFI8pucmS2y%2Fj0ioGiU3wrzZe16cSlidj8WkrxuGNouXZHGn2QIEWgKF%2F61bnthJ%2FwZlTAHalGPuLYf%2BlzZ1EnSyg12hLyklJiFgeVB9DoegiyYRWj9K9jamFR0TZZN1q0%3D",
+                  "ratePlanType": "ONLINE",
+                  "segmentId": "G"
+                },
+                {
+                  "ratePlanCode": "73986392615453***G",
+                  "roomTypeCode": "233250",
+                  "rate": {
+                    "cancelPenalties": [
+                      {
+                        "cancellationType": "FREE_CANCELLATON",
+                        "penaltyDescription": {
+                          "description": "More than 1 day before check-in date: FREE CANCELLATION/MODIFICATION; 1 day before check-in date: 1 night cost will be charged as cancellation/modification fee; In case of no show: no refund; Booking cannot be cancelled/modified on or after the check in date and time mentioned in the Hotel Confirmation Voucher ."
+                        },
+                        "tillDate": "18-May-2017 02:00 PM IST",
+                        "cancelPenalties": [
+                          {
+                            "deadlinetObj": {
+                              "offSetDropTime": "BeforeArrival",
+                              "value": 0,
+                              "offsetUnitMultiplier": 1.0,
+                              "offsetTimeUnit": "day"
+                            },
+                            "amountPercentObj": {
+                              "numOfNights": 1.0,
+                              "basisType": "Nights"
+                            },
+                            "cancellationAmount": {
+                              "value": 12523.0,
+                              "currencyCode": "INR"
+                            }
+                          },
+                          {
+                            "deadlinetObj": {
+                              "offSetDropTime": "BeforeArrival",
+                              "value": 0,
+                              "offsetUnitMultiplier": 99999.0,
+                              "offsetTimeUnit": "day"
+                            },
+                            "amountPercentObj": {
+                              "percent": 0.0
+                            },
+                            "cancellationAmount": {
+                              "value": 0.0,
+                              "currencyCode": "INR"
+                            }
+                          },
+                          {
+                            "serviceFee": 0.0
+                          }
+                        ]
+                      }
+                    ],
+                    "roomTariffs": [
+                      {
+                        "id": "1",
+                        "tariffs": [
+                          {
+                            "group": "ROOM_RATE",
+                            "type": "ROOM_RENT",
+                            "amount": "10250",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "ROOM_RATE",
+                            "type": "FIRSTNIGHTROOMRENT",
+                            "amount": "10250.0",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "TAXES",
+                            "type": "TAXES",
+                            "amount": "2821.12",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "MISC",
+                            "type": "PROFIT",
+                            "amount": "2905.17",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "TAXES",
+                            "type": "MARKUP",
+                            "amount": "855.12",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "TAXES",
+                            "type": "SERVICE_TAX_ON_MARKUP",
+                            "amount": "128.27",
+                            "currencyCode": "INR"
+                          }
+                        ]
+                      }
+                    ],
+                    "promotions": [
+                      {
+                        "promoLevel": "AP_LEVEL_PROMO",
+                        "promoType": "Mark-Up",
+                        "promoAmount": 855.12
+                      },
+                      {
+                        "promoLevel": "AP_LEVEL_PROMO",
+                        "promoType": "Discount",
+                        "promoAmount": 0.0
+                      },
+                      {
+                        "promoLevel": "AP_LEVEL_PROMO",
+                        "promoType": "ServiceTaxOnMarkup",
+                        "promoAmount": 128.27
+                      }
+                    ]
+                  },
+                  "availStatus": "B",
+                  "availableCount": 5,
+                  "inclusionAndPolicyAvail": true,
+                  "mtKey": "N$$s9rHC9RN7n%2FFUop38jFAnkBiomVn6rel4PJntQ%2FumJiMP9naCrlA%2BFc5s8KkzABS6TXr2%2FCczCyyKEKXqc%2BziouFDx%2BOqJFw4csLhgOltgDPakF%2BfTX67ICJPGH%2FPSoGWjpUI7wIeLS3Y0LrJ9PdOqUvEsTLS18L6tl3JyQyR7MItT5vvC%2B900jj%2B6%2FD745%2Fd514U8RMzXo68jefsNJqSOgeokv%2FwGOumVredqYjqCFxd8AJjID%2F3Fg8UR4Ztk8I7FF5VZaA4H3NaMfc8zA3xQEKsPAeD8LWDOHY%2FFetpxQ9xjLZ7r7ITVV6MBxo3Eg0F6ZED9NnxhIo%2FO3RCm%2Bw3%2BNdY8EsJajNR%2FPVpHOkU%2FRJlF%2BDMoBaZZZ7Q6s%2BNE%2FfNhycReZ%2FOv0hvgLVbCLNhJfh72EAw2Qtp4QGww5DZVqBg0i9qNa1CWo0lX2WO5wWLJjMyCk1oII%3D",
+                  "ratePlanType": "ONLINE",
+                  "segmentId": "G"
+                },
+                {
+                  "ratePlanCode": "19407936807963***G",
+                  "roomTypeCode": "4",
+                  "rate": {
+                    "cancelPenalties": [
+                      {
+                        "cancellationType": "FREE_CANCELLATON",
+                        "penaltyDescription": {
+                          "description": "More than 1 day before check-in date: FREE CANCELLATION/MODIFICATION; 1 day before check-in date: no refund; In case of no show: no refund .Booking cannot be cancelled/modified on or after the check in date and time mentioned in the Hotel Confirmation Voucher."
+                        },
+                        "tillDate": "18-May-2017 02:00 PM IST",
+                        "cancelPenalties": [
+                          {
+                            "deadlinetObj": {
+                              "offSetDropTime": "BeforeArrival",
+                              "value": 0,
+                              "offsetUnitMultiplier": 1.0,
+                              "offsetTimeUnit": "day"
+                            },
+                            "amountPercentObj": {
+                              "percent": 100.0
+                            },
+                            "cancellationAmount": {
+                              "value": 12523.0,
+                              "currencyCode": "INR"
+                            }
+                          },
+                          {
+                            "deadlinetObj": {
+                              "offSetDropTime": "BeforeArrival",
+                              "value": 0,
+                              "offsetUnitMultiplier": 99999.0,
+                              "offsetTimeUnit": "day"
+                            },
+                            "amountPercentObj": {
+                              "percent": 0.0
+                            },
+                            "cancellationAmount": {
+                              "value": 0.0,
+                              "currencyCode": "INR"
+                            }
+                          },
+                          {
+                            "serviceFee": 0.0
+                          }
+                        ]
+                      }
+                    ],
+                    "roomTariffs": [
+                      {
+                        "id": "1",
+                        "tariffs": [
+                          {
+                            "group": "ROOM_RATE",
+                            "type": "ROOM_RENT",
+                            "amount": "10250",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "ROOM_RATE",
+                            "type": "FIRSTNIGHTROOMRENT",
+                            "amount": "10250.0",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "TAXES",
+                            "type": "TAXES",
+                            "amount": "2821.12",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "MISC",
+                            "type": "PROFIT",
+                            "amount": "2905.17",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "TAXES",
+                            "type": "MARKUP",
+                            "amount": "855.12",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "TAXES",
+                            "type": "SERVICE_TAX_ON_MARKUP",
+                            "amount": "128.27",
+                            "currencyCode": "INR"
+                          }
+                        ]
+                      }
+                    ],
+                    "promotions": [
+                      {
+                        "promoLevel": "AP_LEVEL_PROMO",
+                        "promoType": "Mark-Up",
+                        "promoAmount": 855.12
+                      },
+                      {
+                        "promoLevel": "AP_LEVEL_PROMO",
+                        "promoType": "Discount",
+                        "promoAmount": 0.0
+                      },
+                      {
+                        "promoLevel": "AP_LEVEL_PROMO",
+                        "promoType": "ServiceTaxOnMarkup",
+                        "promoAmount": 128.27
+                      }
+                    ],
+                    "policy": {
+                      "policyText": "Zero advance, just Pay at Checkout.The hotelier may charge your card in case of cancellation or no show as per the cancellation policy. No payment will be charged from your card before the day of check-in."
+                    }
+                  },
+                  "availStatus": "B",
+                  "availableCount": 4,
+                  "inclusionAndPolicyAvail": true,
+                  "mtKey": "N$$s9rHC9RN7n8I3ltrigQ%2FOtzmJorHw%2BGIV42u0jnSKmF2v%2F%2Bw40%2BN%2BgHvBFK%2B40Tci2TbDiTAfIhPOVZxALbP%2F76WpM2u929aK8QMW1URqsj%2BC%2BuBFHycuwrrcZhP6oiE73g8o60Bg0n6B7ZFEuRh1Ye9MKfKc6PxjFiR1irWgdsStmWDifuhJ59ro2f1EChv4fvrFC6pSFHajVP6QFrPjVpvOuSIKpMEYejggXat3p%2F20Lr88gcCFzQIm%2FuO5FYXPGOvgpz%2FV1qpcmo%2FQpqoQUy1DbRIjjOuv1uziLmfOk769qXpic92jTXsrD0iX%2B6IeQXC6lZ1XLzSsSXDWb3ML%2BBFqGr8D6FXMNJaH2p0aNNhJVfm1h%2Bu1sGtLYa6uibmZuoCtYYE6WHJGXxXCBsN5dVaZpY888Ouf3%2FFycBivHfdJwoVa%2Fb%2BzUdgp1exeGqUzW7bYYUiqWA%3D",
+                  "ratePlanType": "ONLINE",
+                  "segmentId": "G"
+                },
+                {
+                  "ratePlanCode": "19371232372785***G",
+                  "roomTypeCode": "233256",
+                  "rate": {
+                    "cancelPenalties": [
+                      {
+                        "cancellationType": "FREE_CANCELLATON",
+                        "penaltyDescription": {
+                          "description": "More than 1 day before check-in date: FREE CANCELLATION/MODIFICATION; 1 day before check-in date: no refund; In case of no show: no refund .Booking cannot be cancelled/modified on or after the check in date and time mentioned in the Hotel Confirmation Voucher."
+                        },
+                        "tillDate": "18-May-2017 02:00 PM IST",
+                        "cancelPenalties": [
+                          {
+                            "deadlinetObj": {
+                              "offSetDropTime": "BeforeArrival",
+                              "value": 0,
+                              "offsetUnitMultiplier": 1.0,
+                              "offsetTimeUnit": "day"
+                            },
+                            "amountPercentObj": {
+                              "percent": 100.0
+                            },
+                            "cancellationAmount": {
+                              "value": 14356.0,
+                              "currencyCode": "INR"
+                            }
+                          },
+                          {
+                            "deadlinetObj": {
+                              "offSetDropTime": "BeforeArrival",
+                              "value": 0,
+                              "offsetUnitMultiplier": 99999.0,
+                              "offsetTimeUnit": "day"
+                            },
+                            "amountPercentObj": {
+                              "percent": 0.0
+                            },
+                            "cancellationAmount": {
+                              "value": 0.0,
+                              "currencyCode": "INR"
+                            }
+                          },
+                          {
+                            "serviceFee": 0.0
+                          }
+                        ]
+                      }
+                    ],
+                    "roomTariffs": [
+                      {
+                        "id": "1",
+                        "tariffs": [
+                          {
+                            "group": "ROOM_RATE",
+                            "type": "ROOM_RENT",
+                            "amount": "11750",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "ROOM_RATE",
+                            "type": "FIRSTNIGHTROOMRENT",
+                            "amount": "11750.0",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "TAXES",
+                            "type": "TAXES",
+                            "amount": "3234.28",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "MISC",
+                            "type": "PROFIT",
+                            "amount": "3330.63",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "TAXES",
+                            "type": "MARKUP",
+                            "amount": "980.28",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "TAXES",
+                            "type": "SERVICE_TAX_ON_MARKUP",
+                            "amount": "147.04",
+                            "currencyCode": "INR"
+                          }
+                        ]
+                      }
+                    ],
+                    "promotions": [
+                      {
+                        "promoLevel": "AP_LEVEL_PROMO",
+                        "promoType": "Mark-Up",
+                        "promoAmount": 980.28
+                      },
+                      {
+                        "promoLevel": "AP_LEVEL_PROMO",
+                        "promoType": "Discount",
+                        "promoAmount": 0.0
+                      },
+                      {
+                        "promoLevel": "AP_LEVEL_PROMO",
+                        "promoType": "ServiceTaxOnMarkup",
+                        "promoAmount": 147.04
+                      }
+                    ]
+                  },
+                  "availStatus": "B",
+                  "availableCount": 5,
+                  "inclusionAndPolicyAvail": true,
+                  "mtKey": "N$$s9rHC9RN7n%2B7K6H6%2Ftp1hvX%2BwSQ%2Bz2yo2beE20rGrhyigo%2BBJixYwOc5yVIuqJNctHZY6LNw%2BbHmhXm8%2FDocDZpgLnPbHoLDaqU4hnk2iWjJapLozcXR6A7UjAOXYdK3B0FqdmItVpLCSvp%2FnOqGuPrB1JZ%2FrhnnGD4RYMpEQeZKIPiUm%2BvH%2B72M5cxWC6eZznLIPMmTK80ZkHtDKnUfkYxovfkh31kgynv2Nmhwj3jZjG7YQ9QWXtmL9F16f8V333ZF9dw9A3STAB43NVT3nwvra4czjeK%2F%2FfJvC1NI%2BstFg8yMmlch1c4B3iWfNbvxdZyyVs2aMVtX1OtyHmsKJkQWXNu3TSHqgGk2EPn3gcDtLcptJwRv06xGnlsCu8C0KDvPtzZDr6HP4ykYLDQPzpzpmGXa7xgZR39jjZ1tmDG0pDEA1NJlo92DF7hVojHVmRt7KqnDIeJHLnGErUZwyg%3D%3D",
+                  "ratePlanType": "ONLINE",
+                  "segmentId": "G"
+                },
+                {
+                  "ratePlanCode": "92819720942087***G",
+                  "roomTypeCode": "33837",
+                  "rate": {
+                    "cancelPenalties": [
+                      {
+                        "cancellationType": "FREE_CANCELLATON",
+                        "penaltyDescription": {
+                          "description": "More than 1 day before check-in date: FREE CANCELLATION/MODIFICATION; 1 day before check-in date: no refund; In case of no show: no refund .Booking cannot be cancelled/modified on or after the check in date and time mentioned in the Hotel Confirmation Voucher."
+                        },
+                        "tillDate": "18-May-2017 02:00 PM IST",
+                        "cancelPenalties": [
+                          {
+                            "deadlinetObj": {
+                              "offSetDropTime": "BeforeArrival",
+                              "value": 0,
+                              "offsetUnitMultiplier": 1.0,
+                              "offsetTimeUnit": "day"
+                            },
+                            "amountPercentObj": {
+                              "percent": 100.0
+                            },
+                            "cancellationAmount": {
+                              "value": 18300.0,
+                              "currencyCode": "INR"
+                            }
+                          },
+                          {
+                            "deadlinetObj": {
+                              "offSetDropTime": "BeforeArrival",
+                              "value": 0,
+                              "offsetUnitMultiplier": 99999.0,
+                              "offsetTimeUnit": "day"
+                            },
+                            "amountPercentObj": {
+                              "percent": 0.0
+                            },
+                            "cancellationAmount": {
+                              "value": 0.0,
+                              "currencyCode": "INR"
+                            }
+                          },
+                          {
+                            "serviceFee": 0.0
+                          }
+                        ]
+                      }
+                    ],
+                    "roomTariffs": [
+                      {
+                        "id": "1",
+                        "tariffs": [
+                          {
+                            "group": "ROOM_RATE",
+                            "type": "ROOM_RENT",
+                            "amount": "15000",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "ROOM_RATE",
+                            "type": "FIRSTNIGHTROOMRENT",
+                            "amount": "15000.0",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "TAXES",
+                            "type": "TAXES",
+                            "amount": "4099.5",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "MISC",
+                            "type": "PROFIT",
+                            "amount": "4249.5",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "TAXES",
+                            "type": "MARKUP",
+                            "amount": "1249.5",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "TAXES",
+                            "type": "SERVICE_TAX_ON_MARKUP",
+                            "amount": "187.43",
+                            "currencyCode": "INR"
+                          }
+                        ]
+                      }
+                    ],
+                    "promotions": [
+                      {
+                        "promoLevel": "AP_LEVEL_PROMO",
+                        "promoType": "Mark-Up",
+                        "promoAmount": 1249.5
+                      },
+                      {
+                        "promoLevel": "AP_LEVEL_PROMO",
+                        "promoType": "Discount",
+                        "promoAmount": 0.0
+                      },
+                      {
+                        "promoLevel": "AP_LEVEL_PROMO",
+                        "promoType": "ServiceTaxOnMarkup",
+                        "promoAmount": 187.43
+                      }
+                    ]
+                  },
+                  "availStatus": "B",
+                  "availableCount": 7,
+                  "inclusionAndPolicyAvail": true,
+                  "mtKey": "N$$s9rHC9RN7n%2F%2Bm8CZ9U0bpD%2Bw0ah4rQ6CK70yeKbYl7QsOwTSGBsK%2FWFzi8NzP45nCYrTQGFHB8WwJA2rxrHalSgJsXYX3SdMdn0Gjv5liSVl2ZX3I2pxw2LKc1AVUdERZk6G9fS6hHXvIqu6wXsN6xCPcDrkC%2FkXqTG6vBS3fgtxXr2JP2qcwpvZvlfPnDky1%2B%2B06mqnWhC4dXHE3njq%2FDRosnIA2PRz%2F34Nd9eqyrRwH6udfqzDRUsYl2YF%2FmjJrODxzBhCaaGi0DZK%2Bwo%2BZ62iYV%2FTmR1K22kBaOvQaSmtQDI%2FFvv74OKEk2lRi4%2FhFwLMUwDHCP2up8BOrYwFle%2B%2Bd4xUA8j%2Ft5UVRwdr1a%2Byv%2BZNH2BdjRF1e9aUJeb5k7qlw6fZjJrVJablrOp%2BjNcEVcAk9MITpPGGN7Bycyy7pawKKuTG%2BA%3D%3D",
+                  "ratePlanType": "ONLINE",
+                  "segmentId": "G"
+                },
+                {
+                  "ratePlanCode": "53975360477028***G",
+                  "roomTypeCode": "233252",
+                  "rate": {
+                    "cancelPenalties": [
+                      {
+                        "cancellationType": "FREE_CANCELLATON",
+                        "penaltyDescription": {
+                          "description": "More than 1 day before check-in date: FREE CANCELLATION/MODIFICATION; 1 day before check-in date: 1 night cost will be charged as cancellation/modification fee; In case of no show: no refund; Booking cannot be cancelled/modified on or after the check in date and time mentioned in the Hotel Confirmation Voucher ."
+                        },
+                        "tillDate": "18-May-2017 02:00 PM IST",
+                        "cancelPenalties": [
+                          {
+                            "deadlinetObj": {
+                              "offSetDropTime": "BeforeArrival",
+                              "value": 0,
+                              "offsetUnitMultiplier": 1.0,
+                              "offsetTimeUnit": "day"
+                            },
+                            "amountPercentObj": {
+                              "numOfNights": 1.0,
+                              "basisType": "Nights"
+                            },
+                            "cancellationAmount": {
+                              "value": 18327.0,
+                              "currencyCode": "INR"
+                            }
+                          },
+                          {
+                            "deadlinetObj": {
+                              "offSetDropTime": "BeforeArrival",
+                              "value": 0,
+                              "offsetUnitMultiplier": 99999.0,
+                              "offsetTimeUnit": "day"
+                            },
+                            "amountPercentObj": {
+                              "percent": 0.0
+                            },
+                            "cancellationAmount": {
+                              "value": 0.0,
+                              "currencyCode": "INR"
+                            }
+                          },
+                          {
+                            "serviceFee": 0.0
+                          }
+                        ]
+                      }
+                    ],
+                    "roomTariffs": [
+                      {
+                        "id": "1",
+                        "tariffs": [
+                          {
+                            "group": "ROOM_RATE",
+                            "type": "ROOM_RENT",
+                            "amount": "15000",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "ROOM_RATE",
+                            "type": "FIRSTNIGHTROOMRENT",
+                            "amount": "15000.0",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "TAXES",
+                            "type": "TAXES",
+                            "amount": "4128.39",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "MISC",
+                            "type": "PROFIT",
+                            "amount": "4251.39",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "TAXES",
+                            "type": "MARKUP",
+                            "amount": "1251.39",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "TAXES",
+                            "type": "SERVICE_TAX_ON_MARKUP",
+                            "amount": "187.71",
+                            "currencyCode": "INR"
+                          }
+                        ]
+                      }
+                    ],
+                    "promotions": [
+                      {
+                        "promoLevel": "AP_LEVEL_PROMO",
+                        "promoType": "Mark-Up",
+                        "promoAmount": 1251.39
+                      },
+                      {
+                        "promoLevel": "AP_LEVEL_PROMO",
+                        "promoType": "Discount",
+                        "promoAmount": 0.0
+                      },
+                      {
+                        "promoLevel": "AP_LEVEL_PROMO",
+                        "promoType": "ServiceTaxOnMarkup",
+                        "promoAmount": 187.71
+                      }
+                    ]
+                  },
+                  "availStatus": "B",
+                  "availableCount": 4,
+                  "inclusionAndPolicyAvail": true,
+                  "mtKey": "N$$s9rHC9RN7n9Nf5Yk4Tq6kmWvzqkAqQiahNkacKSj5phWRbgUIa7fQNT3R55loOYmh5PynAQzhBIXKXdLmrWB5depGf7YlbXp2RYYih7Ue4AubbP9G0Kxd%2FXwV%2FWhxV%2F%2FOX0myg1%2B1FYRSk00f%2Bc3rWxPQhAosNTEkyybWL32eHoTRtKVbwT3qgpd97vLhHDs63EfovRdFfK%2FMHWDSyyiaufOeKAyVrktcFM1O4REksF9eOcsfRCpEbkUtJwYUKuFuiSTh%2BwcEAV15bkNO7hxBuBF4BSNzAHnJP5ifRnsgWSLcvO0GLZd58%2BDgJc0wrHC4WlsT8zf%2Bscho%2FzyKtdeaEgHh32LA%2BgAYmjvEWPk%2FjKKS%2Fc5OmQHG7KnXVLLN7vMHdT6U0CFaA%2Bnw5L3c%2BipPvwQb0c4P5rP00yBxk4tEe9pciCnJWTYaT63ZGf13kqkJpxkgAo59yXmksatNePQhA%3D%3D",
+                  "ratePlanType": "ONLINE",
+                  "segmentId": "G"
+                },
+                {
+                  "ratePlanCode": "79592536971798***G",
+                  "roomTypeCode": "233248",
+                  "rate": {
+                    "cancelPenalties": [
+                      {
+                        "cancellationType": "FREE_CANCELLATON",
+                        "penaltyDescription": {
+                          "description": "More than 1 day before check-in date: FREE CANCELLATION/MODIFICATION; 1 day before check-in date: no refund; In case of no show: no refund .Booking cannot be cancelled/modified on or after the check in date and time mentioned in the Hotel Confirmation Voucher."
+                        },
+                        "tillDate": "18-May-2017 02:00 PM IST",
+                        "cancelPenalties": [
+                          {
+                            "deadlinetObj": {
+                              "offSetDropTime": "BeforeArrival",
+                              "value": 0,
+                              "offsetUnitMultiplier": 1.0,
+                              "offsetTimeUnit": "day"
+                            },
+                            "amountPercentObj": {
+                              "percent": 100.0
+                            },
+                            "cancellationAmount": {
+                              "value": 25963.0,
+                              "currencyCode": "INR"
+                            }
+                          },
+                          {
+                            "deadlinetObj": {
+                              "offSetDropTime": "BeforeArrival",
+                              "value": 0,
+                              "offsetUnitMultiplier": 99999.0,
+                              "offsetTimeUnit": "day"
+                            },
+                            "amountPercentObj": {
+                              "percent": 0.0
+                            },
+                            "cancellationAmount": {
+                              "value": 0.0,
+                              "currencyCode": "INR"
+                            }
+                          },
+                          {
+                            "serviceFee": 0.0
+                          }
+                        ]
+                      }
+                    ],
+                    "roomTariffs": [
+                      {
+                        "id": "1",
+                        "tariffs": [
+                          {
+                            "group": "ROOM_RATE",
+                            "type": "ROOM_RENT",
+                            "amount": "21250",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "ROOM_RATE",
+                            "type": "FIRSTNIGHTROOMRENT",
+                            "amount": "21250.0",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "TAXES",
+                            "type": "TAXES",
+                            "amount": "5848.82",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "MISC",
+                            "type": "PROFIT",
+                            "amount": "6023.07",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "TAXES",
+                            "type": "MARKUP",
+                            "amount": "1772.82",
+                            "currencyCode": "INR"
+                          },
+                          {
+                            "group": "TAXES",
+                            "type": "SERVICE_TAX_ON_MARKUP",
+                            "amount": "265.92",
+                            "currencyCode": "INR"
+                          }
+                        ]
+                      }
+                    ],
+                    "promotions": [
+                      {
+                        "promoLevel": "AP_LEVEL_PROMO",
+                        "promoType": "Mark-Up",
+                        "promoAmount": 1772.82
+                      },
+                      {
+                        "promoLevel": "AP_LEVEL_PROMO",
+                        "promoType": "Discount",
+                        "promoAmount": 0.0
+                      },
+                      {
+                        "promoLevel": "AP_LEVEL_PROMO",
+                        "promoType": "ServiceTaxOnMarkup",
+                        "promoAmount": 265.92
+                      }
+                    ]
+                  },
+                  "availStatus": "B",
+                  "availableCount": 2,
+                  "inclusionAndPolicyAvail": true,
+                  "mtKey": "N$$s9rHC9RN7n%2BFW3nOcweaV3cSTym6uHjGyed6VKOfz%2BpMVhyB1xqIsYud9b3hhotbCTq8ijT6Z%2F%2BXMwHoqKEHGZstmzq9BhM2p9ubcce5Rg%2BqmbcJD3q599MwTOC1g1sbRQKhUMK%2B0Dt0YQrsGi7ZzCZehYe9wJ1qAWOsgCtPJUEa8%2F0Ivy0B0AuzpYwpkUBNebvQ6rwwjHJ7SMph3bQgEnuIppFdJx6IEbde1lzVQC1o9zL4yRCcGCaAyEjH3NEPVa6aF23HgzFUKSBWZxr%2B4bXAGJm98DSMKl9aWprvAOTrPYFXq8cxOsh6oaMWQ5S6jkmkLWvDQVvaRrj%2BZ9L3Pf7VxewG3p40X0WMeb5ZLnPDoqioLsXv5TzCnuyPMYpJY1PbzQmXcHNajp6aFN%2B%2BMux7Lyez7FDQE1VzddogylTP1xTKgIYKqev0fcbHNxTHrPxxf15NcGlwUSToYDzQU8HlJVLeQ1y%2F",
+                  "ratePlanType": "ONLINE",
+                  "segmentId": "G"
+                }
+              ],
+              "startDate": 1495132200000,
+              "endDate": 1495218600000,
+              "availStatus": "B"
+            }
+          ]
+        },
+        "roomRatePerNight": {
+          "lowestRate": {
+            "value": 8250.0,
+            "currencyCode": "INR"
+          },
+          "discountedLowestRate": {
+            "value": 8250.0,
+            "currencyCode": "INR"
+          },
+          "lowestExtraPaxRate": {
+            "value": 0.0,
+            "currencyCode": "INR"
+          },
+          "discountedLowestRateWithTax": {
+            "value": 10505.26,
+            "currencyCode": "INR"
+          },
+          "lowestTax": {
+            "value": 2255.26,
+            "currencyCode": "INR"
+          },
+          "lowestTariffMarkup": {
+            "value": 687.2600000000002,
+            "currencyCode": "INR"
+          },
+          "lowestTariffSTOnMarkup": {
+            "value": 103.08900000000003,
+            "currencyCode": "INR"
+          },
+          "lowestRoomCode": "33837",
+          "lowestRateCode": "73826256780086***G",
+          "segmentId": "G",
+          "lowestRPCC": "73826256780086"
+        },
+        "isMysteryHotel": false
+      }
+    ]
+  },
+  "allHotel": true,
+  "responseReferenceKey": "3fafc229-6832-4ba4-a8e3-29a5ebe28f20"
+}
