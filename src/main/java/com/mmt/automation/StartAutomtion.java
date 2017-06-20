@@ -39,8 +39,8 @@ public class StartAutomtion {
 				TestExecutionBO executeTest = testExecutionEngine.executeTest(testCaseBO.getRequestBody(), SERVICE_UNDER_TEST + testCaseBO.getRequestURL(), 
 						testCaseBO.getRequestMethod(),testCaseBO.getRequestHeaders(), testCaseBO.getDependencyBO());
 				System.out.println("Test Case:"+testCaseId);
-//				System.out.println("actual response:"+executeTest.getResponseBody());
-//				System.out.println("expected response:"+testCaseBO.getResponseBody());
+				System.out.println("actual response:"+executeTest.getResponseBody());
+				System.out.println("expected response:"+testCaseBO.getResponseBody());
 				System.out.println(testCaseBO.getResponseBody().equalsIgnoreCase(executeTest.getResponseBody()));
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
