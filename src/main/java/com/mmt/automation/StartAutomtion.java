@@ -41,7 +41,7 @@ public class StartAutomtion {
 				System.out.println("Test Case:"+testCaseId);
 				System.out.println("actual response:"+executeTest.getResponseBody());
 				System.out.println("expected response:"+testCaseBO.getResponseBody());
-				System.out.println(testCaseBO.getResponseBody().equalsIgnoreCase(executeTest.getResponseBody()));
+//				System.out.println(testCaseBO.getResponseBody().equalsIgnoreCase(executeTest.getResponseBody()));
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
